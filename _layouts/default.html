@@ -5,40 +5,48 @@
     <meta charset='utf-8' />
     <meta http-equiv="X-UA-Compatible" content="chrome=1" />
     <meta name="description" content="CDC Test Page : Trying things out..." />
-
-    <link rel="stylesheet" type="text/css" media="screen" href="stylesheets/stylesheet.css">
-
+    <link href="//bootswatch.com/cerulean/bootstrap.min.css" rel="stylesheet">
+    <link href="/stylesheets/main.css" rel="stylesheet">
     <title>{{ page.title }}</title>
   </head>
 
   <body>
 
-    <!-- HEADER -->
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <a id="forkme_banner" href="https://github.com/cdcssg">View on GitHub</a>
-
-          <h1 id="project_title">CDC Test Page</h1>
-          <h2 id="project_tagline">Trying things out...</h2>
-
-        </header>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </a>
+          <a class="brand" href="/">CDCSSG</a>
+          <div class="nav-collapse collapse">
+            <ul class="nav">
+              <li><a href="/about.html">About</a></li>
+              <li><a href="/community.html">Community</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
     </div>
 
-    <!-- MAIN CONTENT -->
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
+    <div class="container">
+
+      <div class="row">
         {{ content }}
-      </section>
-    </div>
+      </div>
 
-    <!-- FOOTER  -->
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p>Published with <a href="http://pages.github.com">GitHub Pages</a></p>
+      <hr>
+
+      <footer>
+        <p>&copy; CDCSSG 2012</p>
       </footer>
+
     </div>
+            
 
-    
-
+    <script src="//netdna.bootstrapcdn.com/twitter-bootstrap/2.1.1/js/bootstrap.min.js"></script>
+    <script src="/javascripts/main.js"></script>
   </body>
 </html>
