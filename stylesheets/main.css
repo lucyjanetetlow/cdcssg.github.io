@@ -13,3 +13,9 @@
 .homepage-row div.alert-info {
   padding: 19px;
 }
+
+.hero-unit {
+  background: url(/img/header.jpg);
+  color: white;
+  background-position: center center;
+}
