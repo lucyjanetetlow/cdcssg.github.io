@@ -1,3 +1,15 @@
-body {
-  margin-top: 60px;
+@media (min-width: 980px) {
+  body {
+    margin-top: 60px;
+  }
+}
+
+@media (min-width: 768px) {
+  .homepage-row p {
+    min-height: 5em;
+  }  
+}
+
+.homepage-row div.alert-info {
+  padding: 19px;
 }
