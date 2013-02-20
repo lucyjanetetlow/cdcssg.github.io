@@ -1,3 +1,7 @@
+body {
+  font-size: 1.4em;
+}
+
 @media (min-width: 980px) {
   body {
     margin-top: 60px;
