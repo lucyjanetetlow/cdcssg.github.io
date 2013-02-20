@@ -1,7 +1,9 @@
 ---
 layout: about
-title: Contact Us
+title: Latest News
 ---
+
+(this section will contain blog entries)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
 

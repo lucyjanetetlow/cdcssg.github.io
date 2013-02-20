@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Contact Us
+title: About the Cri du Chat Syndrome Support Group
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
