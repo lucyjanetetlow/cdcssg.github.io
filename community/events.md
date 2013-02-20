@@ -1,6 +1,6 @@
 ---
 layout: community
-title: Community
+title: Events
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 

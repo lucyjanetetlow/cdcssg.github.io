@@ -1,6 +1,6 @@
 ---
 layout: community
-title: Community
+title: Global Community
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
