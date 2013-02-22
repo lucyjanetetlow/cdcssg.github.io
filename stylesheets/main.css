@@ -1,11 +1,6 @@
-body {
-  font-size: 1.4em;
-}
-
-@media (min-width: 980px) {
-  body {
-    margin-top: 60px;
-  }
+@font-face {
+  font-family: "Transport New Light";
+  src: url(/font/TransportNewLight.otf);
 }
 
 @media (min-width: 768px) {
