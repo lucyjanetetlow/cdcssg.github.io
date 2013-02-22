@@ -18,3 +18,12 @@
   color: white;
   background-position: center center;
 }
+
+a#logo img {
+  margin-bottom: 20px;
+}
+
+a#donate {
+  margin-top: 30px;
+  margin-right: 20px;
+}
