@@ -19,6 +19,12 @@
   background-position: center center;
 }
 
+footer {
+  margin-top: 80px;
+  border-top: 1px solid #eee;
+  padding-top: 20px;
+}
+
 a#logo img {
   margin-bottom: 20px;
 }
