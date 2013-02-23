@@ -6,10 +6,18 @@ layout: default
   <div class="span3">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
-        <li class='active'><a href="index.html">About Us</a></li>
-        <li><a href="news.html">News</a></li>
-        <li><a href="membership.html">Membership</a></li>
-        <li><a href="contact.html">Contact Us</a></li>
+        <li{% if page.url == "/about/index.html" %} class="active"{% endif %}>
+          <a href="/about/index.html">About Us</a>
+        </li>
+        <li{% if page.url == "/about/news.html" %} class="active"{% endif %}>
+          <a href="/about/news.html">News</a>
+        </li>
+        <li{% if page.url == "/about/membership.html" %} class="active"{% endif %}>
+          <a href="/about/membership.html">Membership</a>
+        </li>
+        <li{% if page.url == "/about/contact.html" %} class="active"{% endif %}>
+          <a href="/about/contact.html">Contact Us</a>
+        </li>
       </ul>
     </div><!--/.well -->
   </div><!--/span-->
