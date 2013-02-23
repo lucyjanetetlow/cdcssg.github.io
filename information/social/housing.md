@@ -12,4 +12,4 @@ You have the right for your needs to be assessed by the social services departme
 
 ###Independent Living
 
-There are difficult choices to be made as whether the CDCs stay with their family’s or be a ‘looked after person’ and then go into independent living or sheltered accommodation; at each stage a multi-agency team [health, social services, educational] will assess the needs of all and come to a decision as what is the best compromise for CdCs, families and carers.
+There are difficult choices to be made as whether the CDCs stay with their family’s or be a ‘looked after person’ and then go into independent living or sheltered accommodation; at each stage a multi-agency team (health, social services, educational) will assess the needs of all and come to a decision as what is the best compromise for CdCs, families and carers.
