@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About the Cri du Chat Syndrome Support Group
+title: Contact Us
 group: about
 ---
 

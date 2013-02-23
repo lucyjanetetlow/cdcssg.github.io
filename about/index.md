@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Contact Us
+title: About Us
 group: about
 ---
 
