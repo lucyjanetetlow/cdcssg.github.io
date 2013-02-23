@@ -1,6 +1,7 @@
 ---
 layout: about
 title: About the Cri du Chat Syndrome Support Group
+group: about
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 

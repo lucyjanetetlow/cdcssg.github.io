@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Membership
+group: about
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 

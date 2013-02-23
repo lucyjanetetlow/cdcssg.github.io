@@ -1,6 +1,7 @@
 ---
 layout: about
 title: Latest News
+group: about
 ---
 
 (this section will contain blog entries)

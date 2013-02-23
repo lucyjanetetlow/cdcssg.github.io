@@ -1,6 +1,7 @@
 ---
 layout: fundraising
 title: 5p for 5p
+group: fundraising
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 

@@ -1,6 +1,7 @@
 ---
 layout: start_here
 title: The Future
+group: start_here
 ---
 
 What will my child be like in the future?

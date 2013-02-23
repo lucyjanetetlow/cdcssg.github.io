@@ -1,6 +1,7 @@
 ---
 layout: start_here
 title: Start Here
+group: start_here
 ---
 
 This is a friendly introduction to CDC which attempts to remove the fear of the future which many newly-diagnosed families will feel. It's written in a simple, friendly way, with links through to the rest of the site.

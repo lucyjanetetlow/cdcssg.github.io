@@ -1,6 +1,7 @@
 ---
 layout: syndrome
 title: About Cri du Chat Syndrome
+group: syndrome
 ---
 
 ## Cri du Chat Syndrome
