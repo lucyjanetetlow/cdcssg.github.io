@@ -1,0 +1,14 @@
+---
+layout: about
+title: Latest News
+group: about
+---
+
+{% for post in site.posts %}
+  <hr/>
+  <div>
+    <h2><a href='{{post.url}}'>{{post.title}}</a></h2>
+    <p><small>by {{post.author}} on {{post.date}}</small></p>
+    <p>{{ post.content | strip_html | truncatewords: 50 }}</p>
+  </div>
+{% endfor %}

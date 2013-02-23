@@ -4,12 +4,6 @@ title: Cri du Chat Syndrome Support Group
 ---
 
 <div class="row-fluid">
-  <div class='span12'>
-    <h1>{{ page.title }}</h1>
-  </div>
-</div>
-
-<div class="row-fluid">
   <div class="hero-unit">
     <a class='btn btn-primary btn-large' href='/start_here/index.html'>Just diagnosed? Start here &raquo;</a>
   </div>
@@ -31,11 +25,13 @@ title: Cri du Chat Syndrome Support Group
     <a class='btn' href='/community/index.html'>More &raquo;</a>
   </div>
   <div class='span4 well'>
-    <h2>News</h2>
+    <h2>Latest News</h2>
+    {% assign post = site.posts.first %}
+    <a href='{{post.url}}'>{{post.title}}</a>
     <p>
-      Magically include the latest news item.
+      {{ post.content | strip_html | truncatewords: 15 }} 
     </p>
-    <a class='btn' href='/about/news.html'>More &raquo;</a>
+    <a class='btn' href='{{post.url}}'>More &raquo;</a>
   </div>
 </div>
 
