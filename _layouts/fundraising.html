@@ -6,9 +6,15 @@ layout: default
   <div class="span3">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
-        <li class="active"><a href="index.html">Fundraising</a></li>
-        <li><a href="donate.html">Donate Now!</a></li>
-        <li><a href="5p-for-5p.html">5p for 5p</a></li>
+        <li{% if page.url == "/fundraising/index.html" %} class="active"{% endif %}>
+          <a href="/fundraising/index.html">Fundraising</a>
+        </li>
+        <li{% if page.url == "/fundraising/donate.html" %} class="active"{% endif %}>
+          <a href="/fundraising/donate.html">Donate</a>
+        </li>
+        <li{% if page.url == "/fundraising/5p-for-5p.html" %} class="active"{% endif %}>
+          <a href="/fundraising/5p-for-5p.html">5p for 5p</a>
+        </li>
       </ul>
     </div><!--/.well -->
   </div><!--/span-->
