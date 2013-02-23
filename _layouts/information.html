@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+<div class="row-fluid">
+  <div class="span3">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li{% if page.url == "/information/index.html" %} class="active"{% endif %}>
+          <a href="/information/index.html">Information</a>
+        </li>
+        <li class='nav-header'>Medical</li>
+        <li class='nav-header'>Education</li>
+        <li{% if page.url == "/information/education.html" %} class="active"{% endif %}>
+          <a href="/information/education.html">Education</a>
+        </li>
+        <li class='nav-header'>Financial</li>
+        <li{% if page.url == "/information/insurance.html" %} class="active"{% endif %}>
+          <a href="/information/insurance.html">Insurance</a>
+        </li>
+        <li{% if page.url == "/information/financial_help.html" %} class="active"{% endif %}>
+          <a href="/information/financial_help.html">Financial Help</a>
+        </li>
+        <li class='nav-header'>Social Care</li>
+        <li{% if page.url == "/information/carers.html" %} class="active"{% endif %}>
+          <a href="/information/carers.html">Help for Carers</a>
+        </li>
+        <li class='nav-header'>Miscellaneous</li>
+        <li{% if page.url == "/information/cag.html" %} class="active"{% endif %}>
+          <a href="/information/cag.html">Clinical advice</a>
+        </li>
+        <li{% if page.url == "/information/references.html" %} class="active"{% endif %}>
+          <a href="/information/references.html">References</a>
+        </li>
+      </ul>
+    </div><!--/.well -->
+  </div><!--/span-->
+                
+  <div class='span9'>
+    <h2>{{page.title}}</h2>
+    {{ content }}
+  </div>
+</div>

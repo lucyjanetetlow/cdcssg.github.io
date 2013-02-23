@@ -1,7 +1,7 @@
 ---
-layout: syndrome
+layout: information
 title: About Cri du Chat Syndrome
-group: syndrome
+group: information
 ---
 
 This is a basic introduction to CDC and what it is, written in plain English. More detailed sections are available in the sidebar.
