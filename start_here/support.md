@@ -1,6 +1,6 @@
 ---
 layout: start_here
-title: start here
+title: Support Group
 ---
 
 We should then go on an tell people how we help.

@@ -1,6 +1,6 @@
 ---
 layout: start_here
-title: start here
+title: The Future
 ---
 
 What will my child be like in the future?
