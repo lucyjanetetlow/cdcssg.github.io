@@ -6,18 +6,18 @@ layout: default
   <div class="span3">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
-        <li class="active"><a href="#">About CdC Syndrome</a></li>
+        <li{% if page.url == "/syndrome/index.html" %} class="active"{% endif %}>
+          <a href="/syndrome/index.html">About CdC Syndrome</a>
+        </li>
         <li class='nav-header'>Medical</li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
         <li class='nav-header'>Social</li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
-        <li><a href="#">Link</a></li>
         <li class='nav-header'>More Information</li>
-        <li><a href="cag.html">Clinical advice</a></li>
-        <li><a href="references.html">References</a></li>
+        <li{% if page.url == "/syndrome/cag.html" %} class="active"{% endif %}>
+          <a href="/syndrome/cag.html">Clinical advice</a>
+        </li>
+        <li{% if page.url == "/syndrome/references.html" %} class="active"{% endif %}>
+          <a href="/syndrome/references.html">References</a>
+        </li>
       </ul>
     </div><!--/.well -->
   </div><!--/span-->
