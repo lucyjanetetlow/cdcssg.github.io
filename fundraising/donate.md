@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: fundraising
 title: Donate Now!
+group: fundraising
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
