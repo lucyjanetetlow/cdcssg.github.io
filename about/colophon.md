@@ -11,6 +11,8 @@ styling.
 The font is Transport New Light, by [K-Type](http://www.k-type.com/). 
 We also used [FontAwesome](http://fontawesome.github.io) for the icons.
 
+Our cookie notification uses [CookieCuttr](http://cookiecuttr.com/).
+
 We try to stick to the [Gov.uk style guide](https://www.gov.uk/designprinciples/styleguide) 
 as much as we can.
 
