@@ -4,10 +4,15 @@ title: Colophon
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+We made this site using [Jekyll](http://jekyllrb.com), and we used Twitter's 
+[Bootstrap](http://twitter.github.io/bootstrap) CSS framework for the
+styling.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+The font is Transport New Light, by [K-Type](http://www.k-type.com/). 
+We also used [FontAwesome](http://fontawesome.github.io) for the icons.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+We try to stick to the [Gov.uk style guide](https://www.gov.uk/designprinciples/styleguide) 
+as much as we can.
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+You can get all the code for the site and style from 
+[Github](http://github.com/cdcssg); help us make it better!
