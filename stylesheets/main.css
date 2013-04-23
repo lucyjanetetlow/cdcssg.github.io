@@ -25,7 +25,7 @@
   padding: 19px;
 }
 
-.hero-unit {
+.homepage-row .hero-unit {
   background: url(/img/header.jpg);
   color: white;
   background-position: center center;
