@@ -6,6 +6,9 @@ layout: default
   <div class="span3">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
+        <li{% if page.url == "/information/index.html" %} class="active"{% endif %}>
+          <a href="/information/index.html">Information</a>
+        </li>
         <li class='nav-header'>Signposts</li>
         <li{% if page.url == "/information/signposts/diagnosis.html" %} class="active"{% endif %}>
           <a href="/information/signposts/diagnosis.html">Diagnosis</a>
