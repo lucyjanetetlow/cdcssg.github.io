@@ -37,6 +37,10 @@ footer {
   padding-top: 20px;
 }
 
+footer a {
+  color: black;
+}
+
 a#logo img {
   margin-bottom: 20px;
 }
