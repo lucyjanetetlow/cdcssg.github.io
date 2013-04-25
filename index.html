@@ -18,25 +18,31 @@ title: Cri du Chat Syndrome Support Group
 <div class='row-fluid homepage-row'>
   <div class='span4 well'>
     <h2>Information</h2>
-    <p>
-      About CDCS itself, therapies, education, and social and financial aspects.
-    </p>
+    <div class='well-content'>
+      <p>
+        About CDCS itself, therapies, education, and social and financial aspects.
+      </p>
+    </div>
     <a class='btn' href='/information/index.html'>More &raquo;</a>
   </div>
   <div class='span4 well'>
     <h2>Community</h2>
-    <p>
-      Get in touch with other families, share your experiences, and get advice.
-    </p>
+    <div class='well-content'>
+      <p>
+        Get in touch with other families, share your experiences, and get advice.
+      </p>
+    </div>
     <a class='btn' href='/community/index.html'>More &raquo;</a>
   </div>
   <div class='span4 well'>
     <h2>Latest News</h2>
-    {% assign post = site.posts.first %}
-    <a href='{{post.url}}'>{{post.title}}</a>
-    <p>
-      {{ post.content | strip_html | truncatewords: 15 }} 
-    </p>
+    <div class='well-content'>
+      {% assign post = site.posts.first %}
+      <a href='{{post.url}}'>{{post.title}}</a>
+      <p>
+        {{ post.content | strip_html | truncatewords: 15 }} 
+      </p>
+    </div>
     <a class='btn' href='{{post.url}}'>More &raquo;</a>
   </div>
 </div>
