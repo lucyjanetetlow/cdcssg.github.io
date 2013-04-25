@@ -4,10 +4,17 @@ title: Contact Us
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+To get in touch with us, you can write to:
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+<address>
+Cri du Chat Syndrome Support Group<br/>
+Administration Office<br/>
+PO Box 3408<br/>
+Norwich<br/>
+NR3 3WE
+</address>
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+Alternatively, you can get in touch by:
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+* Email: [office@criduchat.org.uk](mailto:office@criduchat.org.uk)
+* Telephone: 0845 0942725 (answerphone)
