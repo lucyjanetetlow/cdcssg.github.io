@@ -6,7 +6,7 @@ group: fundraising
 
 <img src='/img/5pfor5p.jpg' alt='5p for 5p bottle' class='pull-right'/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. Ed Balls.
 
 Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
 
