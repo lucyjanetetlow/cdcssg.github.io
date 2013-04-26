@@ -21,6 +21,18 @@
   }  
 }
 
+h1 {
+	font-size: 34px;
+}
+
+h2 {
+	font-size: 21px;
+}
+
+h3 {
+	font-size: 15px;
+}
+
 .homepage-row div.alert-info {
   padding: 19px;
 }

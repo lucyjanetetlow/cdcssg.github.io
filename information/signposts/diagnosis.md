@@ -29,6 +29,6 @@ Physical examination may identify the following:
 
 Full genetic testing (from a small blood sample) is recommended as it is the only method of obtaining an accurate diagnosis. Parents may also wish to be tested to see if they have the 10-15% chance of being carriers.
 
-###Family advice
+##Family advice
 
 If it is a new case then there is no risk to the immediate family and close relations. If a parent is found to be a carrier then further investigations may be warranted of their siblings. Leaflets for counselling, advice for appointments and siblings for these question can be sought from; [http://www.geneticalliance.org.uk/publications_patients.htm](http://www.geneticalliance.org.uk/publications_patients.htm)
