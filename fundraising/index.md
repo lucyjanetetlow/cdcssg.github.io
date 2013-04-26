@@ -4,10 +4,19 @@ title: Fundraising
 group: fundraising
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+We always need to raise money so that we can provide support and advice to families, 
+run the annual conference, and so on. If you'd like to help, there are lots of ways 
+you can do so:
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+## [Make a donation](donate.html)
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+You can either donate directly, or sponsor one of our many brilliant fundraisers.
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+## [5p for 5p](5p-for-5p.html)
+
+Why not make a "5p for 5p" collection bottle and put it out in your office, school, 
+or local pub?
+
+## [Other ideas](ideas.html)
+
+Not keen on jumping out of a plane, or running a marathon? How about having a charity dinner party? Or recycling your printer cartridges? Our [ideas page](ideas.html) has fundraising methods to suit everyone.
