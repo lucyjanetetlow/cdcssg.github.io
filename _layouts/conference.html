@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="row-fluid">
+  <div class="span3">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li{% if page.url == "/conference/index.html" %} class="active"{% endif %}>
+          <a href="/conference/index.html">Conference</a>
+        </li>
+      </ul>
+    </div><!--/.well -->
+  </div><!--/span-->
+                
+  <div class='span9'>
+    <h1>{{page.title}}</h1>
+    {{ content }}
+  </div>
+</div>
