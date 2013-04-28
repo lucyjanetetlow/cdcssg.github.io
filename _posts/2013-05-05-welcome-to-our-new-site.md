@@ -11,10 +11,12 @@ So, what's changed and why?
 
 * **Simpler**: We've tried to make it easier to browse to the information you want,
   and to make that information easier to understand.
-* **Cleaner**: We have a modern, uncluttered design that should make the site a
+* **Clean**: We have a modern, uncluttered design that should make the site a
   a pleasure to use. Larger, more readable text should help a lot as well!
 * **Searchable**: The site has been optimised to be more visible in search engines,
   so it should be easier to find what you want, especially for new families.
+* **Mobile**: We know that more and more of you are using phones and tablets to view
+  our site. The new one is designed to work well on those sorts of devices.
   
 An important part of making a good site is deciding what **not** to include, so 
 we've taken a few things away:
