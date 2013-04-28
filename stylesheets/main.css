@@ -91,3 +91,12 @@ div#committee div:nth-child(even) img {
 	float: right;
 	margin-left: 20px;
 }
+
+#fundraisers .thumbnail {
+	text-align: center;
+}
+
+#fundraisers .thumbnail a div {
+	height: 160px;
+	width: 160px;
+}
