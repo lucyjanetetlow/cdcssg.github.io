@@ -4,10 +4,25 @@ title: Membership
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+We welcome anyone who is interested in, or involved with, the syndrome to become a member of our support group.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+There are several types of membership categories and your membership year starts the day you join.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+- Family Membership   (UK Postal address)       £10 pa suggested donation
+- Family Membership   (Outside UK)              £15 pa suggested donation
+- Professional        (UK Postal address)       £20 pa suggested donation
+- Professional        (Outside UK)              £25 pa suggested donation 
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+What do members receive?
+
+* The CdC Newsletter (2 full colour issues per year)
+* Information about district, regional and annual events
+* Full, free, access to our Clinical Advisory Group
+* The right to vote on some decisions abuot what the group does (if you are over 16)
+* The right to stand for election to certain positions within the group (if you are over 16)
+
+Subscriptions can be giftaided helping us to maximise your donation
+
+To join the group please contact office@criduchat.org.uk for a membership application form. Payments may be made by cheque, standing order or PayPal.
+
+
