@@ -4,10 +4,8 @@ title: Conference
 group: conference
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+Our support group has been holding family weekends since the early 1990s and is the only event in the UK that is held specifically for the families, carers and professionals interested in Cri du Chat Syndrome.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+We hope you will consider joining us at our next family weekend and, if this is you first time, look forward to meeitng you. We know that it can be hard to come to your first family weekend so we can arrange for a committee member to get in touch prior to the confernce to introduce themselves and their family.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
