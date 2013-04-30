@@ -6,12 +6,20 @@ group: fundraising
 
 <img src='/img/5pfor5p.jpg' alt='5p for 5p bottle' class='pull-right'/>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. Ed Balls.
+Cri du Chat is sometimes known as "5p-" because of the bit of chromosome that is deleted. Spotting the link, we started a "5p for 5p" fundraising campaign.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+If you want to take part, just follow these simple steps:
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+1. Buy a bottle of wine and drink it! (good start, eh?)
+2. Find someone sober and get them to download, print and cut out our special label
+3. Write your name and phone numbre on the back, and your child's name on the front if you want to.
+4. Stick the label around the bottle
+5. Put the bottle in your office, school, pub, etc.
+6. When it's full, donate the cash using our JustGiving page
+7. Treat yourself to another bottle of wine and start again!
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+The clever bit is that onyl 5p coins will fit the bottle, so it should be easy to get it changed at the bank.
+
+What are you waiting for? Get down the off-license immediately!
 
 [Download PDF](/downloads/5pfor5p.pdf)
