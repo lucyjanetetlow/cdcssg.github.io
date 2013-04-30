@@ -4,10 +4,14 @@ title: About Us
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+The Cri du Chat Syndrome Support Group was founded inthe mid 1980s by Ann Wilson, a parent of a child with CdC Syndrome, after discovering there was no support group specifically for this syndrome.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+A Steering Group was formed in 1991 and the group became a registered charity in 1993. The support group is formed by families and relatives of those with CdC Syndrome as well as research members who have expressed an interest in this condition.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+The group is open to anyone who has an interest of need.
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+The group supplies information, advice and support through its Clinical Advisory Group, formed by members of the Committee and professionals.
+
+We receive no government funding and are funded by memberships, individual and corporate donations as well as fundraising activities. 
+
+
