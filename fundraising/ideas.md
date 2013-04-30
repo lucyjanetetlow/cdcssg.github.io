@@ -5,11 +5,13 @@ group: fundraising
 ---
 
 Internet Shopping 
+
 A classic and easy way to start fundraising for the group. Visit www.easyfundraising.org.uk and choose "Cri du Chat" as your good cause.
 Once you have registered any purchase you make, via the site, will result in a small donation back to us. This does not cost you anything and is funded by retail companies signing up to the scheme.
 You can check up at any time to see how much you have raised. 
 
 Cartridge recycling
+
 Cash for Cartridges buy most, but not all, empty ink cartridges used in printers throughout the UK and will pay for your emtpy ink cartridges to reach their recyling centre.
 Many of us work at companies that use printers and this is a great way to raise money easily for the support group. 
 Full details of this scheme are available from their website www.cashforcartridges.co.uk 
