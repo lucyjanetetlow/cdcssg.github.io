@@ -18,7 +18,7 @@ If you want to take part, just follow these simple steps:
 6. When it's full, donate the cash using our JustGiving page
 7. Treat yourself to another bottle of wine and start again!
 
-The clever bit is that onyl 5p coins will fit the bottle, so it should be easy to get it changed at the bank.
+The clever bit is that only 5p coins will fit the bottle, so it should be easy to get it changed at the bank.
 
 What are you waiting for? Get down the off-license immediately!
 
