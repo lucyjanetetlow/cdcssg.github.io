@@ -1,5 +1,5 @@
 ---
 layout: conference
-title: Programme
+title: Conference 2013
 group: conference
 ---
