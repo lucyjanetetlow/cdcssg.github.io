@@ -15,7 +15,7 @@ Family            | International | £15                       |
 Professional      | UK            | £20                       |
 Professional      | International | £25                       |
 
-What do members receive?
+## What do members receive?
 
 * The CdC Newsletter (2 full colour issues per year)
 * Information about district, regional and annual events
