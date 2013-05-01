@@ -25,6 +25,6 @@ What do members receive?
 
 Subscriptions can be giftaided helping us to maximise your donation.
 
-To join the group please contact [office@criduchat.org.uk](office@criduchat.org.uk) for a membership application form. Payments may be made by cheque, standing order or PayPal.
+To join the group please contact [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=membership form) for a membership application form. Payments may be made by cheque, standing order or PayPal.
 
 
