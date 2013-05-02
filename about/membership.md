@@ -17,7 +17,7 @@ Professional      | International | £25                       |
 
 ## What do members receive?
 
-* The CdC Newsletter (2 full colour issues per year)
+* The CdCSSG Newsletter (2 full colour issues per year)
 * Information about district, regional and annual events
 * Full, free, access to our [Clinical Advisory Group](/information/cag.html)
 * The right to vote on some decisions about what the group does (if you are over 16)
