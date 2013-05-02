@@ -21,4 +21,4 @@ The Clinical Advisory Group endeavours to provide up to date information, a prom
 Both members and non-members are encouraged to contact the Clinical Advisory Group if they have any questions of a clinical nature about Cri du Chat.
 We would encourage anyone using this service to join as a member of the support group or to give us a donation to help us continue to fund this valuable service. 
 
-To ask a question please email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=CAG query)
+To ask a question please email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=CAG)
