@@ -4,10 +4,22 @@ title: Privacy policy
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+## Memberships
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+Lucy - is there something simple we should say here about privacy of our members' information
+and what we do with it?
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+## Website
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+We use browser cookies to track our visitors, so that we can find out what content
+people are interested in, and where we should focus our efforts. 
+
+We do this using Google Analytics, so this information is sent to Google's systems. 
+We don't get any personal information from this, though the network address 
+of your computer is collected as part of the process.
+
+If you do not want to be tracked in this way, you can click the 'Decline' button
+when asked if you want to accept cookies.
+
+The content of any forms you submit will be stored in our systems, including any
+contact information you include, though we won't use it for any other purpose.
