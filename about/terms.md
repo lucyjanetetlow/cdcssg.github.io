@@ -4,10 +4,13 @@ title: Terms & conditions
 group: about
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+All content on this site is &copy; Copyright 2013 The Cri du Chat Syndrome Support Group.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+The contents of this site should not be considered expert advice; you should always consult
+a trained medical professional when making decisions that affect your child.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+The information on this site is provided on an "AS IS" basis, without any warranty express
+or implied.
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+To the extent permitted by law, CdCSSG will not be liable for any indirect or consequential 
+loss or damage whatever arising out of or in connection with the use of this site.
