@@ -1,0 +1,28 @@
+---
+layout: nil
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Cri du Chat Syndrome Support Group</title>
+ <link href="http://www.criduchat.org.uk/about/news.atom" rel="self"/>
+ <link href="http://www.criduchat.org.uk/" rel="alternate" type="text/html" />
+ <updated>{{ site.time | date_to_xmlschema }}</updated>
+ <id>http://www.criduchat.org.uk/</id>
+ <author>
+   <name>Cri du Chat Syndrome Support Group</name>
+   <email>office@criduchat.org.uk</email>
+ </author>
+
+ {% for post in site.posts limit:10 %}
+ <entry>
+   <title>{{ post.title }}</title>
+   <link href="http://www.criduchat.org.uk{{ post.url }}"/>
+   <published>{{ post.date | date_to_xmlschema }}</published>
+   <updated>{{ post.date | date_to_xmlschema }}</updated>
+   <id>http://www.criduchat.org.uk{{ post.id }}</id>
+   <content type="html">{{ post.content | xml_escape }}</content>
+ </entry>
+ {% endfor %}
+
+</feed>
