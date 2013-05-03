@@ -4,10 +4,18 @@ title: Global Community
 group: community
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+Membership of the CdCSSG is not limited to families in the UK and Ireland, and we have members from all over the world.
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+However there are a number of other groups around the world, and we have done our best to compile a complete list. If you are 
+aware of any other groups we have missed please [let us know](mailto:office@criduchat.org.uk).
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
-
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+* Argentina: [mj_rodrigo@yahoo.com](mailto:mj_rodrigo@yahoo.com)
+* Australia: [Cri du Chat Support Group of Australia](http://www.criduchat.asn.au/)
+* Belgium: [cri-du-chat syndroom hulpsite](http://www.criduchat.be/)
+* Germany: [5p- Syndrom](http://www.5p-syndrom.de/5p-/index.php)
+* Italy: [A.B.C.](http://www.criduchat.it/)
+* Netherlands: [criduchat.nl](http://www.criduchat.nl/news.php)
+* Poland: [stowarzyszenie_gen@poczta.onet.pl](mailto:stowarzyszenie_gen@poczta.onet.pl)
+* Spain: [Fundacion Sindrome 5P-](http://www.fundacionsindrome5p.org/)
+* Sweden: [Svenska Cri du Chat sällskapet](http://www.criduchat.com/)
+* USA: [5p- Society](http://www.fivepminus.org/)
