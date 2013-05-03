@@ -4,28 +4,48 @@ title: Family Weekend 2013 Programme
 group: familyweekends
 ---
 
-## Friday 21st June
+##Friday 21st June
 
-7pm New family welcome and buffet
- 
-## Saturday 22nd June
- 
-10:30 Welcome by Darren Ayres, Chairman and AGM
+check in and conference registration from 2pm
 
-11:10  Andy Fenwick "How Challenging Behaviour Develops"
+7:00 – New family welcome, *The Lounge Area*
 
-12:10 Workshops
+7:30 – 9:30 Buffet (Residents only), *Prince of Wales Suite*
+
+If you are not staying at the hotel, but would like to attend the buffet please let us know.
+
+##Saturday 22nd June 
+
+9:15 – 10:00 Children’s Trip Registration and coaches *The Lounge Area*
+
+*Refreshments available*
+
+10:30 – 11:00 Welcome by Darren Ayres, Chairman, and AGM *Prince of Wales Suite*
+
+11:10 – 12:00 Andy Fenwick, “How Challenging Behaviour Develops”
+
+12:10 – 1:00 Workshops
 * Clinical Advisory Group Forum (General)
-* An overview of living options for adults
+* An overview of living options for adults  
 
-1:00 Lunch
+1:00 – 2:00 Buffet Lunch *The Cathedral*
 
-2:15 Workshops
+2:15 – 3:00 Workshops
 * Clinical Advisory Group Forum (Transition and Adult)
-* Can't eat, Won't eat
+* Can’t eat, Won’t eat
 
-3:15 Workshops
-* Challenging Behaviour
-* Access to Technology
+3:00 - 3:15 Refreshment break 
 
-4:15 Conference Feedback and close
+3:15 – 4:00 Workshops
+* Challenging Behaviour 
+* Access to Technology 
+
+4:15 – 4:30 Conference feedback and close  
+
+Children to arrive back from trip. 
+
+## Sunday 23rd June
+
+There are no formal sessions on the Sunday but we usually meet for breakfast in the hotel. 
+
+Families are welcome to use the hotel facilities. 
