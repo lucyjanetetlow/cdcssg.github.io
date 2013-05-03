@@ -4,12 +4,7 @@ title: Privacy policy
 group: about
 ---
 
-## Memberships
-
-Lucy - is there something simple we should say here about privacy of our members' information
-and what we do with it?
-
-## Website
+## Website Data
 
 We use browser cookies to track our visitors, so that we can find out what content
 people are interested in, and where we should focus our efforts. 
