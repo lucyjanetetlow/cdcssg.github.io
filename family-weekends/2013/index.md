@@ -2,6 +2,8 @@
 layout: familyweekends
 title: Family Weekend 2013
 group: familyweekends
+sitemap:
+    priority: 0.85
 ---
 
 ## 21-23 June 2013, Crowne Plaza Hotel, Chester

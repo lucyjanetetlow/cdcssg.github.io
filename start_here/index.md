@@ -2,6 +2,8 @@
 layout: start_here
 title: Start Here
 group: start_here
+sitemap:
+    priority: 1.0
 ---
 
 This is a friendly introduction to CdCS which attempts to remove the fear of the future which many newly-diagnosed families will feel. It's written in a simple, friendly way, with links through to the rest of the site.

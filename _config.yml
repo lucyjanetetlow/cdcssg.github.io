@@ -1,2 +1,3 @@
 auto: true
 permalink: /about/news/:year/:month/:day/:title.html
+baseurl: http://new.criduchat.org.uk
