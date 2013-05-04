@@ -99,3 +99,7 @@ div#committee div:nth-child(even) img {
 .service-icon {
   font-size: 150%;
 }
+
+.medical h5 {
+  cursor: pointer;
+}
