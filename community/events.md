@@ -4,10 +4,13 @@ title: Events
 group: community
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum tincidunt vehicula nulla non molestie. 
+## Annual Family Weekend
 
-Curabitur facilisis, sapien sit amet blandit cursus, elit sem rhoncus sapien, sed lobortis metus arcu eget arcu. 
+Every year, we organise a weekend where families can get together and share their
+experiences. See our main [family weekend](/familyweekends/index.html) pages for 
+all the details.
 
-Morbi vitae quam metus. In nisl nunc, convallis eget ornare in, auctor id ipsum. Sed mollis pretium vestibulum. Proin ut nunc quis nulla ultricies ornare nec a est. Mauris congue semper eros. 
+## Local meetups
 
-Praesent quam enim, condimentum ut pulvinar et, sollicitudin et odio. Nunc ut risus augue. 
+We are happy to provide support to people wanting to organise local meetups. If you
+would like to organise an event in your area, please [get in touch](mailto:office@criduchat.org.uk).
