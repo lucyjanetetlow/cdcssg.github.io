@@ -59,6 +59,7 @@ footer a {
 
 a#logo img {
   margin-bottom: 20px;
+  margin-right: 10px;
 }
 
 a#donate {
@@ -102,4 +103,8 @@ div#committee div:nth-child(even) img {
 
 .medical h5 {
   cursor: pointer;
+}
+
+.tagline {
+  margin-top: 40px;
 }
