@@ -58,8 +58,11 @@ footer a {
 }
 
 a#logo img {
-  margin-bottom: 20px;
   margin-right: 10px;
+}
+
+div.navbar {
+  margin-top: 10px;
 }
 
 a#donate {
