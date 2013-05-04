@@ -95,3 +95,7 @@ div#committee div:nth-child(even) img {
 #fundraisers {
   margin-bottom: 10px;
 }
+
+.service-icon {
+  font-size: 150%;
+}
