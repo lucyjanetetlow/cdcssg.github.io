@@ -17,7 +17,7 @@ You can either donate directly, or sponsor one of our many brilliant fundraisers
 Why not make a "5p for 5p" collection bottle and put it out in your office, school, 
 or local pub?
 
-## [Raise money with JustGiving](https://www.justgiving.com/fundraising-page/creation/event-selection?pcid=4f759fb9-a7f4-4673-952d-bacaf8db64e8)
+## [Raise money with JustGiving](https://www.justgiving.com/criduchat/Raisemoney)
 
 Running a marathon? Jumping out of a plane? You can use JustGiving to raise money for 
 us online, and all the money is handled for you. Couldn't be easier!
