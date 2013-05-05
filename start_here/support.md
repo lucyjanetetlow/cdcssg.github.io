@@ -21,13 +21,13 @@ and provide a shoulder to lean on when things are hard.
  
 ## Annual Family Weekend
 
-The other main place to get information is at our annual [Family Weekends](/familyweekends/index.html).
+The other main place to get information is at our annual [Family Weekends](/family-weekends/index.html).
 Once a year, we organise a weekend-long get-together for parents and children, where you 
 can make friends, get advice, and learn more about how best to help your child.
 
 It can be hard to get the courage to come along the first time, but we promise it's worth it!
 
-Now, have a look round the rest of the site if you like, and please come 
+When you're ready, have a look round the rest of the site, and please come 
 and say hello on [Facebook](https://www.facebook.com/groups/cdcssguk/)! We're looking forward
 to meeting you!
 
