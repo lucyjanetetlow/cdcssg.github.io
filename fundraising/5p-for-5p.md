@@ -4,7 +4,7 @@ title: 5p for 5p
 group: fundraising
 ---
 
-<img src='/img/5pfor5p.jpg' alt='5p for 5p bottle' class='pull-right'/>
+<img src='/img/5pfor5p.jpg' alt='5p for 5p bottle' class='pull-right' style='margin-left: 20px'/>
 
 Cri du Chat is sometimes known as "5p-" because of the bit of chromosome that is deleted. Spotting the link, we started a "5p for 5p" fundraising campaign.
 
