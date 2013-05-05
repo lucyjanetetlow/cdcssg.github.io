@@ -7,7 +7,7 @@ group: community
 ## Annual Family Weekend
 
 Every year, we organise a weekend where families can get together and share their
-experiences. See our main [family weekend](/familyweekends/index.html) pages for 
+experiences. See our main [family weekend](/family-weekends/index.html) pages for 
 all the details.
 
 ## Local meetups
