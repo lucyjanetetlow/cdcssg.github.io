@@ -22,14 +22,12 @@ it's just random - there's no reason behind it, no root cause.
 
 There is a huge variation in how it affects children, depending on how much genetic 
 material is missing, but all will be slower to learn new things and develop physically.
-This means that they won't walk or talk at the same time as other children. 
+Most obviously, this means that they won't walk or talk at the same time as other 
+children. 
 
 It's important to remember, though, that they <em>do</em> learn, and <em>do</em> develop,
 just not at the same speed as others.
 
-Your child will certainly be able to lead a happy life, and although nobody knows the future, 
-will probably live as long as anyone else; there is no reduction in life expectancy.
-
 You probably have a lot of questions about the future at this point; click below to continue.
 
-<a href='future.html' class='btn btn-primary'>The Future &raquo;</a>
+<a href='future.html' class='btn btn-primary'>What does the future hold? &raquo;</a>
