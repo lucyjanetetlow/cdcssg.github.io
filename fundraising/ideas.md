@@ -12,7 +12,7 @@ You can check up at any time to see how much you have raised.
 
 ##Cartridge recycling
 
-Cash for Cartridges buy most (but not all) empty ink cartridges used in printers throughout the UK and will pay for your empty ink cartridges to reach their recyling centre.
+Cash for Cartridges buy most (but not all) empty ink cartridges used in printers throughout the UK and will pay for your empty ink cartridges to reach their recycling centre.
 Many of us work at companies that use printers or have one at home, and this is a great way to raise money easily for the support group. 
 Full details of this scheme are available from [their website](http://www.cashforcartridges.co.uk).
 
