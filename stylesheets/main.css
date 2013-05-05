@@ -39,6 +39,9 @@ h3 {
 
 .homepage-row .hero-unit {
   background: url(/img/header.jpg);
+  background-repeat: no-repeat;
+  background-color: #b7b7bb;
+  background-size: cover;
   color: white;
   background-position: center center;
 }
