@@ -4,7 +4,7 @@ title: Membership
 group: about
 ---
 
-We welcome anyone who is interested in, or involved with, the syndrome to become a member of our support group.
+We welcome anyone who is interested in, or involved with the syndrome to become a member of our support group.
 
 There are several categories of membership, and your membership year starts the day you join.
 
