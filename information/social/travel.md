@@ -32,4 +32,4 @@ Free bus travel in England for disabled people. Please see [www.direct.gov.uk](w
 
 ##Blue Badge Scheme
 
-Please see [www.direct.gov.uk](www.direct.gov.uk) for more information. Most CdCs qualify.
+Please see [www.direct.gov.uk](www.direct.gov.uk) for more information. Most people with CdCS qualify.

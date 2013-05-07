@@ -4,7 +4,7 @@ title: Transition to Adulthood
 group: information
 ---
 
-As the CdCs age their needs change and transition occurs from primary to secondary schools also from childhood and adulthood. So do the rules change and allowances from child to adult services. Keeping a record of all their needs will help with the transitions as will services like ;
+As children with CdCS grow up, their needs change and transition occurs from primary to secondary schools also from childhood and adulthood. So do the rules change and allowances from child to adult services. Keeping a record of all their needs will help with the transitions as will services like ;
 [http://www.direct.gov.uk/en/DisabledPeople/EducationAndTraining/Schools/index.htm](http://www.direct.gov.uk/en/DisabledPeople/EducationAndTraining/Schools/index.htm)
 
 ‘Connexions’ there are local services in each county/city council that help.
