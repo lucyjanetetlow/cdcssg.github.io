@@ -8,7 +8,7 @@ If you provide a regular and substantial amount of care for someone aged 18 or o
 
 ##Preparing for a Carer's Assessment
 
-There is no definition of 'regular and substantial care'. A carer's assessment means social services will look at your situation and see if you are entitled to any services that could make caring easier for you. Further information can be found on [www.direct.gov.uk](http://www.direct.gov.uk)
+There is no definition of 'regular and substantial care'. A carer's assessment means social services will look at your situation and see if you are entitled to any services that could make caring easier for you. Further information can be found on [direct.gov.uk](http://www.direct.gov.uk)
 
 ## Respite: Your Rights and Breaks from Caring
 
