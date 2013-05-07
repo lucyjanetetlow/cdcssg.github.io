@@ -17,7 +17,7 @@ learn to communicate.
 
 ## Education
 
-Many CdCS children attend schools for children with special needs, though some
+Many children with CdCS attend schools for children with special needs, though some
 do attend mainstream schools with extra support.
 
 ## Professional Assistance

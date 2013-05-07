@@ -24,11 +24,11 @@ Children with failure to thrive and/or those that have difficulty swallowing may
  
 ##Psychologist
  
-Due to the prevalence of behavioural problems in CdCS children, many will require psychological input and advice for their parents. In addition educational psychologists may be involved to assess the best educational placement for your child.
+Due to the prevalence of behavioural problems in children with CdCS, many will require psychological input and advice for their parents. In addition educational psychologists may be involved to assess the best educational placement for your child.
  
 ##Audiology
  
-Glue ear is common in CdCS children and therefore children will often undertake tests to assess the quality of their hearing. Many children end up having hearing aids.
+Glue ear is common in children with CdCS and therefore children will often undertake tests to assess the quality of their hearing. Many children end up having hearing aids.
 
 ##Ophthalmology
 
