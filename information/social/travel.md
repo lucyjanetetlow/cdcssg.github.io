@@ -4,6 +4,16 @@ title: Travel
 group: information
 ---
 
+##Motability Scheme
+
+This is a means of purchasing a brand new car without the worry of servicing, tax, insurance etc. Applications can be processed through accredited dealerships and basically once approved; the car is paid for using your Disabled Living Allowance (higher rate of mobility care). You can make additional contributions but must receive the higher rate of DLA. Motability can be contacted at: [www.motability.co.uk](http://www.motability.co.uk) or 01279 635666.
+
+###Adaptations
+
+Mostly adaptations are not required, though due to poor muscular control, supporting seats may be required. Advice can be sought from your Occupational Therapist.
+
+
+
 ##National Rail
 
 National Rail needs advance warning if you need any assistance from staff - ideally more than 24 hours' notice. This is particularly important if your journey includes getting on or off a train at an unstaffed station.
