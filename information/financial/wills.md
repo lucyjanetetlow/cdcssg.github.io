@@ -4,6 +4,9 @@ title: Wills and Trusts
 group: information
 ---
 
-There are services for making wills and trusts and as such do not recommend any particular group. Mencap will have a list of ‘specialised’ advisors on making wills that are special needs specific to your needs.
+It may be a good idea to include special provision in your will for your child, or to set up a trust that can manage their financial affairs after your death.
 
-[http://www.mencap.org.uk/what-we-do/our-services/wills-and-trusts](http://www.mencap.org.uk/what-we-do/our-services/wills-and-trusts)
+There are many services for making wills and trusts, and we do not recommend any particular group. 
+
+However, Mencap provide [a great deal of information](http://www.mencap.org.uk/what-we-do/wills-and-trusts) on how to make appropriate arrangements, including a national list of solicitors with experience dealing with special needs.
+
