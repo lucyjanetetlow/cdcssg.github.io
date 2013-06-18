@@ -4,21 +4,26 @@ title: Clinical Advisory Group
 group: information
 ---
 
-Our Clinical Advisory Group is a multi disciplinary group of professionals with particular interests and expertise relevant to the well being of children and adults with Cri du Chat Syndrome.
+If you want an expert opinion, or some specialist clinical advice regarding CdCS, you can get in touch with our Clinical Advisory Group (CAG).
 
-Current members include:
+The CAG is a multi-disciplinary group of professionals, all of whom have expertise relevant to Cri du Chat Syndrome. It aims to provide up to date information, a prompt advisory service on clinical matters, and someone to talk to for any occasion.
 
-* Professor Chris Oliver, Clinical Psychologist
-* Dr Mohnish Suri, Clinical Geneticist
-* Martin Gargan, Orthopaedic Surgeon
-* Lisa Bowden, Occupational Therapist
-* Damian Haywood, Scientific Advisory
-* Caspar Hull, Osteopath
-* Denise Wills, Paediatric Physiotherapist 
+To ask the CAG a question, click the button below, or send an email to <a href='mailto:office@criduchat.org.uk?subject=CAG query'>office@criduchat.org.uk</a>.
 
-The Clinical Advisory Group endeavours to provide up to date information, a prompt advisory service on clinical matters and someone to talk to for any occasion.
+<a href='mailto:office@criduchat.org.uk?subject=CAG query' class='btn btn-primary btn-large'>Ask the Clinical Advisory Group</a>
 
-Both members and non-members are encouraged to contact the Clinical Advisory Group if they have any questions of a clinical nature about Cri du Chat.
-We would encourage anyone using this service to join as a member of the support group or to give us a donation to help us continue to fund this valuable service. 
+## Experts
 
-To ask a question please email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=CAG)
+Our current CAG members are:
+
+* **Professor Chris Oliver**, Clinical Psychologist
+* **Dr Mohnish Suri**, Clinical Geneticist
+* **Martin Gargan**, Orthopaedic Surgeon
+* **Lisa Bowden**, Occupational Therapist
+* **Damian Haywood**, Scientific Advisory
+* **Caspar Hull**, Osteopath
+* **Denise Wills**, Paediatric Physiotherapist 
+
+## Eligibility
+
+CAG advice is freely available to both members and non-members, though we would encourage anyone using it to [join as a member](/about/membership.html) or [donate](/fundraising/donate.html) to help us fund this service.
