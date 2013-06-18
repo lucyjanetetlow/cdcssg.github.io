@@ -24,6 +24,10 @@ The Blue Badge scheme gives you help with parking your car, such as the use of d
 
 To apply, visit the [gov.uk Blue Badge page](https://www.gov.uk/apply-blue-badge).
 
+## Toll Roads
+
+Tax-exempt vehicles may be exempt from various toll charges, such as the M6 toll or the Dartford Crossing toll. See the [Blue Badge Company tolls page](http://www.bluebadgecompany.co.uk/bridges-and-tolls) for more details on each scheme.
+
 ## Train Travel
 
 ### National Rail
