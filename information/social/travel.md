@@ -8,9 +8,9 @@ group: information
 
 If you receive the higher-rate mobility component of [Disability Living Allowance](/information/financial/financial_help.html), you can use part or all of it to pay for a car on the Motability scheme.
 
-Motability is a means of getting a brand new car without the worry of servicing, tax, insurance etc; all you need to pay for is fuel. Once approved, the cost of the car is taken out of your mobility benefit. Larger vehicles will have an up-front price on top of this. 
+Motability lets you get a new car that meets your needs, without the cost of servicing, tax, insurance, breakdown and so on; all you need to pay for is fuel. Once approved, the cost of the car is taken out of your mobility benefit. Larger vehicles will have an up-front price on top of this. 
 
-Many car dealerships will have a motability specialist, who can help you apply. You will need at least 6 months remaining on your DLA claim.
+Many car dealerships will have a motability specialist, who can help you apply. You will need at least 12 months remaining on your DLA claim.
 
 You can find the list of available vehicles on the [Motability website](http://www.motability.co.uk). You can also contact them on 01279 635666.
 
