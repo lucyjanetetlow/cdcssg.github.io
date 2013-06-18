@@ -8,5 +8,5 @@ It may be a good idea to include special provision in your will for your child, 
 
 There are many services for making wills and trusts, and we do not recommend any particular group. 
 
-However, Mencap provide [a great deal of information](http://www.mencap.org.uk/what-we-do/wills-and-trusts) on how to make appropriate arrangements, including a national list of solicitors with experience dealing with special needs.
+However, [Mencap](http://www.mencap.org.uk/what-we-do/wills-and-trusts) provide a great deal of information on how to make appropriate arrangements, including a national list of solicitors with experience dealing with special needs.
 
