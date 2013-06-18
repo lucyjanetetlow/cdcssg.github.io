@@ -20,7 +20,7 @@ DLA for adults (over 16) is being gradually replaced by the new Personal Indepen
 
 ## Carer's Allowance
 
-If you care for someone who receives DLA for more than 35 hours a week, you will also qualify for Carer's Allowance. This *is* taxable, and can affect other benefits, but is much easier to apply for than DLA.
+If you care for someone who receives DLA for more than 35 hours a week, you may also qualify for Carer's Allowance. This *is* taxable, and can affect other benefits, but is much easier to apply for than DLA.
 
 See the [gov.uk Carer's Allowance](https://www.gov.uk/carers-allowance) pages for more details.
 
