@@ -4,8 +4,10 @@ title: Treatment
 group: information
 ---
 
-The syndrome cannot be cured, however many patients will be referred to and require a variety of different therapies and specialties as they develop. The following sections will provide some information regarding each therapy. More detailed information is available on the website.
+The syndrome cannot be cured, though children and adults with CdCS will be able to get a variety of different therapies as they grow up. The [therapies](/information/therapies/therapies.html) section gives some information on the most common ones.
 
-###Contacting your GP
+### Contacting your GP
 
-It would make your visits easier if you made your position clear to your primary care provider i.e. GP surgery. It would be sensible if you could be assigned a regular GP who would know your child and their needs. Providing them with this route map would remind them. It is also recommended that the ‘carers’ make themselves known to the practice as this has added considerations to their needs.
+It may make GP visits easier if you make your situation clear to your surgery, and see a regular GP who could get to know your child and their needs. Providing them with this information (which you can [download](/downloads/cdcs_route_map.pdf)) may help.
+
+You should also let you GP know if you are a carer for a person with CdCS, as this will affect your own needs.
