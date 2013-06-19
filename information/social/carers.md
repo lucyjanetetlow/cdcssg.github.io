@@ -14,5 +14,5 @@ The Carers Equal Opportunities Act (2004) was introduced to ensure that you have
 
 ## Carer's Assessments
 
-During a carer’s assessment, the local authority social services team will ask you about your work, learning and leisure requirements. They will then decide if you are entitled to any services that could make caring easier for you. Further information can be found on [direct.gov.uk](http://www.direct.gov.uk)
+During a carer’s assessment, the local authority social services team will ask you about your work, learning and leisure requirements. They will then decide if you are entitled to any services that could make caring easier for you. Further information can be found on [gov.uk](https://www.gov.uk/browse/disabilities/carers)
 
