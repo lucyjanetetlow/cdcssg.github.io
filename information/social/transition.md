@@ -4,9 +4,16 @@ title: Transition to Adulthood
 group: information
 ---
 
-As children with CdCS grow up, their needs change and transition occurs from primary to secondary schools also from childhood and adulthood. So do the rules change and allowances from child to adult services. Keeping a record of all their needs will help with the transitions as will services like ;
-[http://www.direct.gov.uk/en/DisabledPeople/EducationAndTraining/Schools/index.htm](http://www.direct.gov.uk/en/DisabledPeople/EducationAndTraining/Schools/index.htm)
+As children with CdCS grow up, their needs change. They will move from primary to secondary education, and then from childhood to adulthood.
 
-‘Connexions’ there are local services in each county/city council that help.
+At this time, often called *transition*, the rules and allowances change, and the child's well-being will be handed over to adult services run by the local council.
 
-Inevitably a time will come when the care will change from parents to siblings or other carers due to natural aging, accident or health reasons. Looking at providers and services is advisable sooner rather than later so that the transition can be gradually introduced.
+Keeping a record of all their needs will help with the various transitions.
+
+## Connexions
+
+There are a group of local information services, called *Connexions*, which can advise on how transition works for each different city/council. You can find your local one via [Google](https://www.google.co.uk/search?q=connexions).
+
+## Handing Over
+
+Inevitably a time will come when the care will change from parents to siblings or other carers due to natural aging, accident or health reasons. You should looking at the available providers and services sooner, rather than later, so that any changeover can be gradually introduced.
