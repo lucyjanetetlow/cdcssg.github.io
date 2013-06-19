@@ -4,31 +4,43 @@ title: Diagnosis
 group: information
 ---
 
-Diagnosis is usually performed within the first few days of birth. For some babies this may be longer because the syndrome may not be initially evident. The syndrome is determined by a combination of symptoms, physical examination by a specialist and genetic testing indicating missing part of chromosome 5.
+CdCS is usually diagnosed within the first few days of birth, though for some babies this takes longer.
 
-Symptoms include:
-* Cry that is high-pitched and sounds like a cat
-* Downward slant to the eyes
+The syndrome is diagnosed by looking at the combination of symptoms, physical examination by a specialist, and finally by genetic testing.
+
+Experts will look for symptoms such as:
+
+* Cry that is unusually high-pitched and sounds like a cat
 * Low birth weight and slow growth
-* Low-set or abnormally shaped ears
 * Intellectual disability
+* Slow or incomplete development of motor skills
+* Small head (*microcephaly*)
+* Small jaw (*micrognathia*)
+* Wide-set eyes
+* Downward slant to the eyes
+* An extra fold of skin over the inner corner of the eye (*Epicanthal folds*)
+* Low-set or abnormally shaped ears
+* Skin tags just in front of the ear
 * Partial webbing or fusing of fingers or toes
 * Single line in the palm of the hand
-* Skin tags just in front of the ear
-* Slow or incomplete development of motor skills
-* Small head (microcephaly)
-* Small jaw (micrognathia)
-* Wide-set eyes
 
-Physical examination may identify the following:
-* Inguinal hernia
-* Diastasis recti (separation of the muscles in the belly area)
+When doing a physical examination, they may find:
+
 * Low muscle tone
-* Epicanthal folds, an extra fold of skin over the inner corner of the eye
+* Inguinal hernia
+* Separation of the muscles in the belly area (*Diastasis recti*)
 * Problems with the folding of the outer ears
 
-Full genetic testing (from a small blood sample) is recommended as it is the only method of obtaining an accurate diagnosis. Parents may also wish to be tested to see if they have the 10-15% chance of being carriers.
+## Genetic Testing
 
-##Family advice
+A full genetic test (using a small blood sample) is the only way to be 100% sure, and a specialist will normally do this if they suspect that the syndrome is present.
 
-If it is a new case then there is no risk to the immediate family and close relations. If a parent is found to be a carrier then further investigations may be warranted of their siblings. Leaflets for counselling, advice for appointments and siblings for these question can be sought from [Genetic Alliance](http://www.geneticalliance.org.uk/publications_patients.htm).
+### Parents &amp; family
+
+There is a 10-15% chance that the syndrome is inherited from a parent. If you are a parent, you should be offered a genetic test to see if you are a carrier. This means that you have the missing piece of the fifth chromosome, but not in the right place; a *translocation*.
+
+If neither parent is a carrier, then there is no increased risk to the immediate family, close relations, or future children.
+
+If one parent a carrier, then there is a high risk of future children having the syndrome, and it may be worth their siblings and any existing children having genetic tests as well.
+
+You can get leaflets on counselling and advice for family members from [Genetic Alliance](http://www.geneticalliance.org.uk/publications_patients.htm)
