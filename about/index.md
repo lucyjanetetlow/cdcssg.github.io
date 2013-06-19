@@ -9,7 +9,7 @@ parent of a child with [Cri du Chat Syndrome](/information/index.html), after di
 group specifically for this syndrome.
 
 A steering group was formed in 1991, and the group became a registered charity 
-([#1044942](http://www.charitycommission.gov.uk/Showcharity/RegisterOfCharities/CharityWithoutPartB.aspx?RegisteredCharityNumber=1044942&SubsidiaryNumber=0)) in 1993. 
+([#1044942](http://www.charitycommission.gov.uk/search-for-a-charity/?txt=1044942)) in 1993. 
 
 The support group is made up of families and relatives of those with CdCS, as 
 well as research members who have expressed an interest in this condition. However,
