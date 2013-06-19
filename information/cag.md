@@ -2,6 +2,8 @@
 layout: information
 title: Clinical Advisory Group
 group: information
+sitemap:
+    priority: 0.90
 ---
 
 If you want an expert opinion, or some specialist clinical advice regarding CdCS, you can get in touch with our Clinical Advisory Group (CAG).
