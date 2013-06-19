@@ -6,7 +6,20 @@ group: fundraising
 
 ##Internet Shopping 
 
-A classic and easy way to start fundraising for the group. Visit [www.easyfundraising.org.uk](http://www.easyfundraising.org.uk/causes/cdcssg) and click "Sign me up".
+### Amazon UK
+
+If you search Amazon using the box below, we will get a small donation based on each item you purchase:
+
+<form target="_blank" action="http://www.amazon.co.uk/exec/obidos/external-search" class="well form-search">
+  <input type="text" name="keyword" class="input-large search-query" value=""/>
+  <input type="hidden" name="mode" value="blended"/>
+  <input type="hidden" name="tag" value="criduchat-21"/>
+  <button type="submit" class='btn btn-primary' name="Submit">Search Amazon UK</button>
+</form>
+
+### EasyFundraising
+
+Visit [our page on EasyFundraising](http://www.easyfundraising.org.uk/causes/cdcssg) and click "Sign me up".
 Once you have registered any purchase you make, via the site, will result in a small donation back to us. This does not cost you anything and is funded by retail companies signing up to the scheme.
 You can check up at any time to see how much you have raised. 
 

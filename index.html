@@ -5,10 +5,16 @@ sitemap:
   priority: 0.8
 ---
 
-<div class="row-fluid homepage-row">
+<div class="row-fluid homepage-row hidden-phone">
   <div class="hero-unit">
     <a class='btn btn-primary btn-large' href='/start_here/index.html'>Just diagnosed? Start here &raquo;</a>
   </div>
+</div>
+
+<div class="row-fluid homepage-row visible-phone">
+  <p>
+    <a class='btn btn-primary btn-large btn-block' href='/start_here/index.html'>Just diagnosed? Start here &raquo;</a>
+  </p>
 </div>
 
 <div class='row-fluid'>
@@ -38,7 +44,7 @@ sitemap:
     <a class='btn' href='/community/index.html'>More &raquo;</a>
   </div>
   <div class='span4 well'>
-    <h1>Latest News</h1>
+    <h1>News</h1>
     <div class='well-content'>
       {% assign post = site.posts.first %}
       <a href='{{post.url}}'>{{post.title}}</a>
