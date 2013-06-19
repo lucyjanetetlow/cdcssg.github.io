@@ -4,19 +4,24 @@ title: Education
 group: information
 ---
 
-A leaflet entitled ‘Statutory assessment—Education’ (leaflet code ES26) from Early Support explains the process of requesting an assessment for your child and provides examples of letters to help you. It also describes what a Statement of Special Educational Needs is. This can be obtained from the [Early Support website](http://www.earlysupport.org.uk) or by phoning 0845 602 2260.
-Mostly preschools and nursery can accommodate children with CdCS with key worker help, then special primary schools have been found to benefit almost all; very few have been able to go mainstream. 
+## Preschool & Nursery
 
-For more information visit [gov.uk](https://www.gov.uk/children-with-special-educational-needs).
+Most preschools and nurseries can accommodate children with CdCS, with the appropriate staffing and key worker help.
 
-##Special Educational Needs - Identification and Assessment
+## School
 
-Early identification, assessment and provision for any child who may have Special Educational Needs (SEN) is crucial. The SEN Code of Practice, to which schools, early education settings, (Local Educational Authority) LEA's and others must by law have regard, promotes a common approach to identifying, assessing and providing for all children’s special educational needs.
+Most children with CdCS will be best-suited to a school that is set up for pupils with special needs. Some have been able to attend mainstream schools, but very few.
 
-##School Transport
+Before your child starts school, you will go through the process to get a *Statement of Special Educational Needs*, often just called a *statement*. This is a process where the council will do a *statutory assessment* of your child's educational needs, and then make sure that they attend the right sort of school, and the school has what your child needs. 
 
-Transport to schools will normally be provided by your local authority and they will do a risk assessment for their seating requirements if necessary.
+The process can be fairly long and complex, and as a parent you may have to fight your corner to make sure your child gets what you want.
 
-##The National Parent Partnership
+There is a lot of information on the statementing process on the [gov.uk website](https://www.gov.uk/children-with-special-educational-needs).
 
-The National Parent Partnership Service offers impartial advice, information and support to parents/carers of children and young people with special educational needs. They are very helpful and can often save you hours of worry by simply knowing who you need to contact for what. They will also liaise on your behalf with schools/LEA. Simply visit the [Parent Partnership website](http://www.parentpartnership.org.uk) to find your local contact.
+## School Transport
+
+Transport to schools for disabled children will normally be provided by your local authority. They will assess and provide any special seating if your child requires it.
+
+## The National Parent Partnership
+
+The National Parent Partnership Service offers impartial advice, information and support to parents/carers of children and young people with special educational needs. They are very helpful and can often save you hours of worry by simply knowing who you need to contact for what. They will also liaise on your behalf with schools/LEAs. Simply visit the [Parent Partnership website](http://www.parentpartnership.org.uk) to find your local contact.
