@@ -28,3 +28,9 @@ As children grow older the following additional problems may become more apparen
 * Behavioural problems
 * Orthopaedic problems
 * Emotional difficulties
+
+## Growth Rates
+
+Children with CdCS may grow more slowly than other children. This means that the standard growth charts are not necessarily accurate.
+
+Some growth charts specifically for children with CdCS were produced by an international team of researchers in 2000. You can download their paper and the charts [here](/downloads/growth_charts.pdf).
