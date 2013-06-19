@@ -22,4 +22,4 @@ You can actively encourage children to do praiseworthy things such as tidying up
 
 Special Needs Teachers, Health Visitors and Child Psychologists are also good sources of sensible advice for families with children with challenging behaviour.
 
-Lots of information is also available from the [Challenging Behaviour Foundation]().
+Lots of information is also available from the [Challenging Behaviour Foundation](http://www.challengingbehaviour.org.uk/).
