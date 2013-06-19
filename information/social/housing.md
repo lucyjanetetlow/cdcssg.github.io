@@ -12,7 +12,7 @@ You have the right for your needs to be assessed by the social services departme
 
 You may be entitled to financial help, such as a Disabled Facilities Grant, to pay for adaptations or improvements to your home. 
 
-See [www.direct.gov.uk](http://www.direct.gov.uk) for more information.
+See [gov.uk](https://www.gov.uk/disabled-facilities-grants) for more information.
 
 ## Independent Living
 

@@ -5,7 +5,9 @@ group: information
 ---
 
 A leaflet entitled ‘Statutory assessment—Education’ (leaflet code ES26) from Early Support explains the process of requesting an assessment for your child and provides examples of letters to help you. It also describes what a Statement of Special Educational Needs is. This can be obtained from the [Early Support website](http://www.earlysupport.org.uk) or by phoning 0845 602 2260.
-Mostly preschools and nursery can accommodate children with CdCS with key worker help, then special primary schools have been found to benefit almost all; very few have been able to go mainstream. For your rights see [direct.gov.uk](http://www.direct.gov.uk/en/DisabledPeople/index.htm).
+Mostly preschools and nursery can accommodate children with CdCS with key worker help, then special primary schools have been found to benefit almost all; very few have been able to go mainstream. 
+
+For more information visit [gov.uk](https://www.gov.uk/children-with-special-educational-needs).
 
 ##Special Educational Needs - Identification and Assessment
 
