@@ -16,13 +16,15 @@ layout: nil
   </url>
   {% endfor %}
   {% for page in site.pages %}
-  <url>
-    <loc>http://criduchat.org.uk{{ page.url }}</loc>
-    {% if page.sitemap != null and page.sitemap.priority != null %}
-      <priority>{{ page.sitemap.priority }}</priority>
-    {% else %}
-      <priority>0.1</priority>
+    {% if page.group != "errors" %}
+      <url>
+        <loc>http://criduchat.org.uk{{ page.url }}</loc>
+        {% if page.sitemap != null and page.sitemap.priority != null %}
+          <priority>{{ page.sitemap.priority }}</priority>
+        {% else %}
+          <priority>0.1</priority>
+        {% endif %}
+      </url>
     {% endif %}
-  </url>
   {% endfor %}
 </urlset>
