@@ -115,3 +115,11 @@ div#committee div:nth-child(even) img {
 .tagline {
   margin-top: 40px;
 }
+
+dl#fundraisers dt {
+  width: 200px;
+}
+
+dl#fundraisers dd {
+  margin-left: 220px;
+}
