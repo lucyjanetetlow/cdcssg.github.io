@@ -16,7 +16,7 @@ layout: nil
   </url>
   {% endfor %}
   {% for page in site.pages %}
-    {% if page.group != "errors" %}
+		{% unless (page.group == "errors") or (page.url contains "atom") or (page.url contains "xml") %}
       <url>
         <loc>http://criduchat.org.uk{{ page.url }}</loc>
         {% if page.sitemap != null and page.sitemap.priority != null %}
@@ -25,6 +25,6 @@ layout: nil
           <priority>0.1</priority>
         {% endif %}
       </url>
-    {% endif %}
+    {% endunless %}
   {% endfor %}
 </urlset>
