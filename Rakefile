@@ -13,13 +13,12 @@ namespace :update do
     list = Nokogiri::HTML(open('http://www.justgiving.com/criduchat/friend-search?q=&s=CharitySpecific&p=1'))
     list.css('a.img_thumb').each do |link|
       url = 'http://www.justgiving.com' + link['href']
+      puts url
       page = Nokogiri::HTML(open(url))
-      owner = page.css('div#fundraising-panel figcaption a').first.content
-      event = page.css('.event').first.content
-      if page.css('#thermometer').first
-        output << "<dt><a href='#{url}'>#{owner}</a></dt>\n"
-        output << "<dd>#{event.gsub("Event:", '').gsub(/\s/, ' ').strip.squeeze(' ')}</dd>\n"
-      end
+      owner = page.css('div#fundraising-panel figcaption a').first
+      event = page.css('.event').first
+      output << "<dt><a href='#{url}'>#{owner.content || ''}</a></dt>\n"
+      output << "<dd>#{(event ? event.content : '').gsub("Event:", '').gsub(/\s/, ' ').strip.squeeze(' ')}</dd>\n"
     end
     output.close
   end
