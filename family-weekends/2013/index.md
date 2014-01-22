@@ -8,9 +8,11 @@ sitemap:
 
 ## 21-23 June 2013, Crowne Plaza Hotel, Chester
 
-This year, we're holding the 22nd Annual CdCSSG Family Weekend in Chester on the weekend of the 21st June!
+The CdC Support Group family met in Chester for the 2013 annual family weekend.
 
-The weekend is now fully booked.
+Over 25 families came together for a weekend of networking, shared experiences, learning and fun. As usual we had a great mix of first time families and those who have come before. Attendees went to sessions on how challenging behaviour develops, living options for adults, access to technology and a great session on dietary challenges called “Can’t eat, Won’t eat”
+
+Full details of this weekend will be in the next CdC newsletter but there are plenty of photos on our [facebook page](https://www.facebook.com/groups/cdcssguk/).
 
 * [Venue details](venue.html)
 * [Programme](programme.html)
