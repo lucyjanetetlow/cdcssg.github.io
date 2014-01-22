@@ -33,7 +33,7 @@ When doing a physical examination, they may find:
 
 ## Genetic Testing
 
-A full genetic test (using a small blood sample) is the only way to be 100% sure, and a specialist will normally do this if they suspect that the syndrome is present.
+A full genetic test (using a small blood sample) is the only way to be 100% sure, and a specialist will normally do this if they suspect that the syndrome is present. This is normally carried out through your local [NHS genetics service](http://www.geneticalliance.org.uk/services.htm).
 
 ### Parents &amp; family
 
