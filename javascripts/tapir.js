@@ -15,7 +15,7 @@ $('document').ready(function(){
 				else
 					results_div.html('')	
         $.each(data, function(key, val) {
-          results_div.append('<div class="well result"><h3><a href="' + val.link + '">' + val.title + '</a></h3><p>' + $("<div/>").html(val.summary).text() + ' <a href="' + val.link + '">Read More &raquo;</a></p></div>');					
+          results_div.append('<div class="well result"><h2><a href="' + val.link + '">' + val.title + '</a></h2><p>' + $("<div/>").html(val.summary).text() + ' <a href="' + val.link + '">Read More &raquo;</a></p></div>');					
         });
       }
     );
