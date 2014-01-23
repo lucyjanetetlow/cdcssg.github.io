@@ -5,11 +5,8 @@ sitemap:
   priority: 0.01
 ---
 
-<div id="search_results"></div>
+<h2>Search Results</h2>
 
-<script src="/javascripts/jquery-tapir.min.js"></script>
-<script>
-	$(document).ready(function () {
-		$('#search_results').tapir({'token': '51e5b71668548801000006d1'});
-	});
-</script>
+<div id="tapir_search_results" data-api_key='51e5b71668548801000006d1'></div>
+
+<script src="/javascripts/tapir.js"></script>
