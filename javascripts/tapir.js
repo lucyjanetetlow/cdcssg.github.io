@@ -15,7 +15,12 @@ $('document').ready(function(){
 				else
 					results_div.html('')	
         $.each(data, function(key, val) {
-          results_div.append('<div class="well result"><h2><a href="' + val.link + '">' + val.title + '</a></h2><p>' + $("<div/>").html(val.summary).text() + ' <a href="' + val.link + '">Read More &raquo;</a></p></div>');					
+					summary = $("<div/>").html(val.summary).text()
+					max_length = 300
+					if (summary.length > max_length) {
+						summary = summary.substring(0, max_length) + ' &hellip;'
+					}
+          results_div.append('<div class="well result"><h2><a href="' + val.link + '">' + val.title + '</a></h2><p>' + summary + ' <a href="' + val.link + '">Read More &raquo;</a></p></div>');					
         });
       }
     );
