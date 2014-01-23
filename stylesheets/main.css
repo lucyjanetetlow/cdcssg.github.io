@@ -21,6 +21,10 @@
   }  
 }
 
+p, li {
+  line-height: 175% !important;
+}
+
 h1 {
 	font-size: 34px;
 }
