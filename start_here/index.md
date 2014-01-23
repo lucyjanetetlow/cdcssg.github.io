@@ -30,4 +30,4 @@ just not at the same speed as others.
 
 You probably have a lot of questions about the future at this point; click below to continue.
 
-<a href='future.html' class='btn btn-primary'>What does the future hold? &raquo;</a>
+<a href='future.html' class='btn btn-primary'>What does the future hold? »</a>

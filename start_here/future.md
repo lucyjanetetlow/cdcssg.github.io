@@ -26,4 +26,4 @@ Unfortunately, as CdCS is so rare, most professionals you come into contact with
 won't know that much about it. As a CdCS parent, <em>you</em> are the expert
 on your child. We know this is a bit daunting, but we're here to help:
 
-<a href='support.html' class='btn btn-primary'>Find out more about our support group &raquo;</a>
+<a href='support.html' class='btn btn-primary'>Find out more about our support group »</a>

@@ -31,4 +31,4 @@ When you're ready, have a look round the rest of the site, and please come
 and say hello on [Facebook](https://www.facebook.com/groups/cdcssguk/)! We're looking forward
 to meeting you!
 
-<a href='/index.html' class='btn'>Back to the homepage &raquo;</a>
+<a href='/index.html' class='btn'>Back to the homepage »</a>
