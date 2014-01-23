@@ -127,3 +127,9 @@ dl#fundraisers dt {
 dl#fundraisers dd {
   margin-left: 220px;
 }
+
+.blog-post img {
+  float: right;
+  max-height: 300px;
+  padding-left: 20px;
+}
