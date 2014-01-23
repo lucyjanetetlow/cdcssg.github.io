@@ -39,4 +39,17 @@ So why not....
 * Get your company to support us. From charity of the year partnerships to one off donation there are many ways we can work together.
 * Get fit for the group. Our fundraisers are involved in many sporting events - see our [donate](donate.html) page for examples
 
-Whatever way you choose to support the group please do get in touch for support and fundraising materials.
+Whatever way you choose to support the group please do get in touch for support.
+
+## Fundraising Materials
+
+We have a range of materials available free to help with your fundraising efforts:
+
+* Leaflets
+* Posters
+* Collection tins
+* Pens
+* Gift Aid envelopes
+* Newsletters
+
+To order, download and fill in our [fundraising materials order form](/downloads/fundraising_materials.pdf) and send it to us.
