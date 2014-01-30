@@ -13,4 +13,4 @@ all the details.
 ## Local meetups
 
 We are happy to provide support to people wanting to organise local meetups. If you
-would like to organise an event in your area, please [get in touch](mailto:office@criduchat.org.uk).
+would like to organise an event in your area, please visit the [funding & grants page](/community/grants.html) to find out more.
