@@ -4,9 +4,9 @@ title: Diagnosis
 group: information
 ---
 
-CdCS is usually diagnosed within the first few days of birth, though for some babies this takes longer.
+CdCS is usually diagnosed within the first few days of birth, though for some babies this takes longer. The syndrome is diagnosed by looking at the combination of symptoms, physical examination by a specialist, and finally by genetic testing.
 
-The syndrome is diagnosed by looking at the combination of symptoms, physical examination by a specialist, and finally by genetic testing.
+Diagnosis can sometimes happen before birth with a genetic test (via an amniocentesis or CVS test), though there are few known signs that would indicate that a pre-birth test is needed.
 
 Experts will look for symptoms such as:
 
