@@ -4,6 +4,8 @@ title: Family Weekend 2014
 group: familyweekends
 sitemap:
     priority: 0.85
+description: 2012 Cri du Chat Syndrome Support Group family weekend
+keywords:
 ---
 
 ## 27-29 June 2014, Holiday Inn, Chessington World of Adventures Resort

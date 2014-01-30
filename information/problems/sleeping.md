@@ -2,6 +2,8 @@
 layout: information
 title: Sleeplessness
 group: information
+description: Information on sleep problems associated with Cri du Chat Syndrome
+keywords:
 ---
 
 Sleep problems in children with CdCS are very common indeed, occurring far more frequently than in the general population of children. 

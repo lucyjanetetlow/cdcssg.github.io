@@ -2,6 +2,8 @@
 layout: information
 title: Housing
 group: information
+description: Housing details for those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 If you have impairment or a health condition that makes living alone difficult, making some adaptations to your home or getting extra support may help you to live in your own home.

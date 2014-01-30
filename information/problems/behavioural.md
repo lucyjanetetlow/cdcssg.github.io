@@ -2,6 +2,8 @@
 layout: information
 title: Behavioural Problems
 group: information
+description: Information on behavioural issues related to Cri du Chat Syndrome
+keywords:
 ---
 
 Children with CdCS may have behavioural problems, including hyperactivity, aggressive and oppositional behaviour as well as sleep problems. 

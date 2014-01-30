@@ -4,6 +4,8 @@ title: Start Here
 group: start_here
 sitemap:
     priority: 1.0
+description: Recently diagnosed with Cri du Chat Syndrome? Start here.
+keywords:
 ---
 
 If you're here because your child has been diagnosed with Cri du Chat Syndrome, then

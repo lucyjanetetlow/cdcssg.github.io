@@ -2,6 +2,8 @@
 layout: information
 title: Treatment
 group: information
+description: Treatment of Cri du Chat Syndrome
+keywords:
 ---
 
 The syndrome cannot be cured, though children and adults with CdCS will be able to get a variety of different therapies as they grow up. The [therapies](/information/therapies/therapies.html) section gives some information on the most common ones.

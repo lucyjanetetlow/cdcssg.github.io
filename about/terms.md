@@ -2,6 +2,8 @@
 layout: about
 title: Terms & conditions
 group: about
+description: Terms, conditions, and copyright details for the Cri du Chat Syndrome Support Group website
+keywords:
 ---
 
 ## Copyright &amp; Reuse

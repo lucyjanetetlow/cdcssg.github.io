@@ -2,6 +2,8 @@
 layout: start_here
 title: The Future
 group: start_here
+description: Recently diagnosed with Cri du Chat Syndrome? What the future holds.
+keywords:
 ---
 
 Your child will certainly be able to lead a happy life, and although nobody knows the

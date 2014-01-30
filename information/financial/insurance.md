@@ -2,6 +2,8 @@
 layout: information
 title: Insurance
 group: information
+description: How to get insurance for those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 You may not need specialist insurance, but if you do, it can be difficult to find adequate and affordable insurance policies with a pre-existing condition. 

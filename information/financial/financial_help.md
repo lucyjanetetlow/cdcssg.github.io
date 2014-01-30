@@ -2,6 +2,8 @@
 layout: information
 title: Financial Help
 group: information
+description: Financial help for those affected by Cri du Chat Syndrome, and their carers
+keywords: benefits
 ---
 
 There are many sources of financial help available. Your local [Citizens Advice Bureau](http://www.citizensadvice.org.uk/) can help with advice on finance and benefits, if you need it.

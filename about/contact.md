@@ -2,6 +2,8 @@
 layout: about
 title: Contact Us
 group: about
+description: Contact details for the Cri du Chat Syndrome Support Group
+keywords:
 ---
 
 To get in touch with us, you can write to:

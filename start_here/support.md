@@ -2,6 +2,8 @@
 layout: start_here
 title: Support Group
 group: start_here
+description: Recently diagnosed with Cri du Chat Syndrome? We're here to help.
+keywords:
 ---
 
 There is a lot of help and advice out there to help you.

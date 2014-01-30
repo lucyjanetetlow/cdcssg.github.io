@@ -2,6 +2,8 @@
 layout: information
 title: Gastric Reflux
 group: information
+description: Information on gastric reflux associated with Cri du Chat Syndrome
+keywords:
 ---
 
 Gastric reflux is common in children with CdCS. 

@@ -2,6 +2,8 @@
 layout: information
 title: Travel
 group: information
+description: Disability-friendly travel information
+keywords:
 ---
 
 ## Motability

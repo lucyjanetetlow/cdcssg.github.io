@@ -2,6 +2,8 @@
 layout: community
 title: Events
 group: community
+description: Cri du Chat Syndrome Support Group events
+keywords:
 ---
 
 ## Annual Family Weekend

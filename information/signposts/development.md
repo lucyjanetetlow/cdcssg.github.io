@@ -2,6 +2,8 @@
 layout: information
 title: Development
 group: information
+description: Child development information for those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 As children with CdCS develop, their needs change. Most of the issues listed below are covered in more detail in the following sections.

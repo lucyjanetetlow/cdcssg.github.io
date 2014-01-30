@@ -2,6 +2,8 @@
 layout: information
 title: Therapies
 group: information
+description: Information on various therapies used to help those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 All children with CdCS will require a range of therapies as they develop. The list below is not exhaustive, and all children’s individual needs will differ. Your family doctor (GP) or community paediatrician will usually be the main point of focus and coordinator of therapies. You should get advice from these contacts when first discussing your child’s requirements.

@@ -2,6 +2,8 @@
 layout: information
 title: Transition to Adulthood
 group: information
+description: Changing to adult social care with Cri du Chat Syndrome
+keywords:
 ---
 
 As children with CdCS grow up, their needs change. They will move from primary to secondary education, and then from childhood to adulthood.

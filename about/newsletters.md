@@ -2,6 +2,8 @@
 layout: about
 title: Newsletters
 group: about
+description: Download Cri du Chat Syndrome Support Group newsletters
+keywords:
 ---
 
 The support group newsletter is published twice a year, and sent to all [members](/about/membership.html). The last two years of newsletters are only available to members, but you can download all other previous newsletters here:

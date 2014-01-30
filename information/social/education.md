@@ -2,6 +2,8 @@
 layout: information
 title: Education
 group: information
+description: Education and schooling for those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 ## Preschool & Nursery

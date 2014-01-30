@@ -2,6 +2,8 @@
 layout: information
 title: Diagnosis
 group: information
+description: How Cri du Chat Syndrome is diagnosed
+keywords:
 ---
 
 CdCS is usually diagnosed within the first few days of birth, though for some babies this takes longer. The syndrome is diagnosed by looking at the combination of symptoms, physical examination by a specialist, and finally by genetic testing.

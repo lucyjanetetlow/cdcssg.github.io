@@ -2,6 +2,8 @@
 layout: information
 title: Wills and Trusts
 group: information
+description: Making out an appropriate will to benefit those affected by Cri du Chat Syndrome
+keywords:
 ---
 
 It may be a good idea to include special provision in your will for your child, or to set up a trust that can manage their financial affairs after your death.

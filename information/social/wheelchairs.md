@@ -2,6 +2,8 @@
 layout: information
 title: Wheelchairs
 group: information
+description: Information on wheelchairs and specialist buggies
+keywords:
 ---
 
 If you or your child cannot walk, you should be able to get a wheelchair or specialist buggy. Both are available from your local Wheelchair Service, contactable through your local NHS trust.

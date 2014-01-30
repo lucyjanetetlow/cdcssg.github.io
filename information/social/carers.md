@@ -2,6 +2,8 @@
 layout: information
 title: Help for Carers
 group: information
+description: Information and help for those caring for someone with Cri du Chat Syndrome
+keywords:
 ---
 
 If you provide a regular and substantial amount of care for someone aged 18 or over, you can ask the social services department in your local council for a carer's assessment.

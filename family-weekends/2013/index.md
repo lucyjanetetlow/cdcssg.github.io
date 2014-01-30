@@ -4,6 +4,8 @@ title: Family Weekend 2013
 group: familyweekends
 sitemap:
     priority: 0.85
+description: 2013 Cri du Chat Syndrome Support Group family weekend
+keywords:
 ---
 
 ## 21-23 June 2013, Crowne Plaza Hotel, Chester

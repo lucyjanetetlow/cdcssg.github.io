@@ -2,6 +2,8 @@
 layout: information
 title: Dribbling
 group: information
+description: Information on dribbling associated with Cri du Chat Syndrome
+keywords:
 ---
 
 Many children with disabilities dribble or drool more than normal.

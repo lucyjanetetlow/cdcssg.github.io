@@ -2,6 +2,8 @@
 layout: fundraising
 title: Fundraising
 group: fundraising
+description: How to raise funds for the Cri du Chat Syndrome Support Group
+keywords:
 ---
 
 We always need to raise money so that we can provide support and advice to families, 

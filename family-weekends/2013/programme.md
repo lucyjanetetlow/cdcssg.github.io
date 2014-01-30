@@ -2,6 +2,8 @@
 layout: familyweekends
 title: Family Weekend 2013 Programme
 group: familyweekends
+description: Programme of events for the 2013 Cri du Chat Syndrome Support Group family weekend
+keywords:
 ---
 
 ##Friday 21st June
