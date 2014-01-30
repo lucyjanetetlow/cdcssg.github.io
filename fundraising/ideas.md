@@ -23,13 +23,17 @@ Visit [our page on EasyFundraising](http://www.easyfundraising.org.uk/causes/cdc
 Once you have registered any purchase you make, via the site, will result in a small donation back to us. This does not cost you anything and is funded by retail companies signing up to the scheme.
 You can check up at any time to see how much you have raised. 
 
-##Cartridge recycling
+## Cartridge recycling
 
 Cash for Cartridges buy most (but not all) empty ink cartridges used in printers throughout the UK and will pay for your empty ink cartridges to reach their recycling centre.
 Many of us work at companies that use printers or have one at home, and this is a great way to raise money easily for the support group. 
 Full details of this scheme are available from [their website](http://www.cashforcartridges.co.uk).
 
-##Community and Work Fundraising
+## The People's Operator
+
+[The People's Operator](http://www.thepeoplesoperator.com) is a mobile phone operator (using the EE network) that donates 10% of your bill each month to charity. When you sign up, you can choose to make that donation to us by searching for "Cri du Chat". **Note**: we don't endorse the network in any way, or claim that it's a good deal for you. You should *always* do your own research.
+
+## Community and Work Fundraising
 
 There are many ways to raise money in your local community and it is a great way to get involved and help support our work.
 
