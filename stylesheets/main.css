@@ -132,6 +132,7 @@ dl#fundraisers dd {
   float: right;
   max-height: 300px;
   padding-left: 20px;
+  padding-bottom: 20px;
 }
 
 .navbar-search .search-query {
