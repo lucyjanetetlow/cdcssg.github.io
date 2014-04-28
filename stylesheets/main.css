@@ -6,10 +6,10 @@
 @font-face {
     font-family: 'FontAwesome';
     src: url(/font/fontawesome-webfont.eot);
-    src: url(/font/fontawesome-webfont.eot?#iefix) format('embedded-opentype'), 
-         url(/font/fontawesome-webfont.woff) format('woff'), 
-         url(/font/fontawesome-webfont.ttf) format('truetype'), 
-         url(/font/fontawesome-webfont.svgz#FontAwesomeRegular) format('svg'), 
+    src: url(/font/fontawesome-webfont.eot?#iefix) format('embedded-opentype'),
+         url(/font/fontawesome-webfont.woff) format('woff'),
+         url(/font/fontawesome-webfont.ttf) format('truetype'),
+         url(/font/fontawesome-webfont.svgz#FontAwesomeRegular) format('svg'),
          url(/font/fontawesome-webfont.svg#FontAwesomeRegular) format('svg');
     font-weight: normal;
     font-style: normal;
@@ -18,7 +18,7 @@
 @media (min-width: 768px) {
   .homepage-row p {
     min-height: 5em;
-  }  
+  }
 }
 
 p, li {
@@ -129,10 +129,17 @@ dl#fundraisers dd {
 }
 
 .blog-post img {
-  float: right;
   max-height: 300px;
   padding-left: 20px;
   padding-bottom: 20px;
+}
+
+.blog-post img:nth-of-type(odd) {
+  float: right;
+}
+
+.blog-post img:nth-of-type(even) {
+  float: left;
 }
 
 .navbar-search .search-query {
