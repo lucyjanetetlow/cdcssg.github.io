@@ -13,7 +13,7 @@ Hello, we are Jamie and Amy Sparkes. We have a son called Harry who is now 5 yea
 In January 2012 we found out that we were expecting our second child and had a fairly uneventful pregnancy until May 2012, when we had our 20 week scan. The Ultrasonographer thought that there was something wrong with the scan and sent us for further tests at the Foetal Centre in the Liverpool Women’s Hospital.
 The following day the abnormalities were confirmed, and we had an Amniocentesis.
 
-Two weeks later we met with the Geneticists from Alder Hey Hospital. Over a period of weeks, as the full results from the Amniocentesis came through, we were informed that our baby had Cri Du Chat Syndrome.
+Two weeks later we met with the Geneticists from Alder Hey Hospital. Over a period of weeks, as the full results from the Amniocentesis came through, we were informed that our baby had Cri du Chat Syndrome.
 
 They painted a very bleak outlook in relation to survival rates, ability to walk and talk and other developmental delay.
 
@@ -74,9 +74,9 @@ Looking back over one year of life, Poppy has achieved so much, she has overcome
 We still live one day at a time, we take nothing for granted and we celebrate each achievement as it comes.
 
 Poppy has taught us a lot; in the face of massive adversity she is placid, gentle, calm and content.
-We are so thankful for the other families who have children with Cri Du Chat. Without them we would have felt so much more isolated and vulnerable. The Facebook page has been an invaluable resource for immediate help when struggling with a specific issue, whether that has been Poppy’s medication, medical care or guidance on day to day living. It is great to feel welcomed, loved, supported and not judged.
+We are so thankful for the other families who have children with Cri du Chat. Without them we would have felt so much more isolated and vulnerable. The Facebook page has been an invaluable resource for immediate help when struggling with a specific issue, whether that has been Poppy’s medication, medical care or guidance on day to day living. It is great to feel welcomed, loved, supported and not judged.
 
-We attended the Cri Du Chat Support Group 2013 annual conference in Chester. We are so glad we were able to go. The best bit about the weekend was meeting, face to face, other families and children who had been through similar circumstances and who understood what we were currently going through.
+We attended the Cri du Chat Support Group 2013 annual conference in Chester. We are so glad we were able to go. The best bit about the weekend was meeting, face to face, other families and children who had been through similar circumstances and who understood what we were currently going through.
 
 Harry has hardly had a mention! He has had his own ups and downs and is an amazing big brother to Poppy.
 
