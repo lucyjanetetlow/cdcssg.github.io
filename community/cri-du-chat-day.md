@@ -1,7 +1,7 @@
 ---
-layout: fundraising
+layout: community
 title: Cri du Chat Syndrome Awareness Day
-group: fundraising
+group: community
 description: Details of Cri du Chat Syndrome Day
 keywords:
 ---
@@ -28,7 +28,7 @@ To celebrate and support Cri du Chat Syndrome Day we would like to invite people
 
 4. Hold a coffee morning or an event for your friends to explain more about CdC Syndrome.
 
-5. Drink a bottle of wine to raise money for Cri du Chat – [yes, that’s right](5p-for-5p.html)!
+5. Drink a bottle of wine to raise money for Cri du Chat – [yes, that’s right](/fundraising/5p-for-5p.html)!
 
 6. Sell wristbands for the group – they are only £1 each! Email [office@criduchat.org.uk](mailto:office@criduchat.org.uk?subject=wristbands) for details.
 
