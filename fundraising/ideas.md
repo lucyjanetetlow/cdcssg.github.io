@@ -42,7 +42,7 @@ There are many ways to raise money in your local community and it is a great way
 So why not....
 
 * Hold a fundraising event in aid of the group. It could be anything from a coffee morning, a tea party, casino or disco night.
-* Get your company to support us. From charity of the year partnerships to one off donation there are many ways we can work together.
+* Get your company to support us. From charity of the year partnerships to one off donations there are many ways we can work together.
 * Get fit for the group. Our fundraisers are involved in many sporting events - see our [donate](donate.html) page for examples
 
 Whatever way you choose to support the group please do get in touch for support.
