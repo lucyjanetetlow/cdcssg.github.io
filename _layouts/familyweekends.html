@@ -13,6 +13,12 @@ layout: default
         <li{% if page.url == "/family-weekends/2014/index.html" %} class="active"{% endif %}>
           <a href="/family-weekends/2014/index.html">Information</a>
         </li>
+        <li{% if page.url == "/family-weekends/2014/venue.html" %} class="active"{% endif %}>
+          <a href="/family-weekends/2014/venue.html">Venue</a>
+        </li>
+        <li{% if page.url == "/family-weekends/2014/programme.html" %} class="active"{% endif %}>
+          <a href="/family-weekends/2014/programme.html">Programme</a>
+        </li>
         <li class='nav-header'>Family Weekend 2013</li>
         <li{% if page.url == "/family-weekends/2013/index.html" %} class="active"{% endif %}>
           <a href="/family-weekends/2013/index.html">Information</a>
@@ -30,7 +36,7 @@ layout: default
       </ul>
     </div><!--/.well -->
   </div><!--/span-->
-                
+
   <div class='span9'>
     <h1>{{page.title}}</h1>
     {{ content }}
