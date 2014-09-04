@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Starting School: One family's decision
@@ -18,4 +18,4 @@ Following the mainstream school’s assessments of Enid, we had a meeting with t
 
 So it’s off to Special School we go! Time will tell if we have made the right decision for Enid, but we think we have. And we are trying to find other ways to ensure she remains a known and valued member of our local community, so hopefully she will have the best of both worlds.
 
-And now, I must get back to ironing in those name tags… 
+And now, I must get back to ironing in those name tags…
