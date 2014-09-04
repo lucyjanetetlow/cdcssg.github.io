@@ -1,5 +1,7 @@
 ---
 published: true
+layout: blog_post
+title: Starting School - One Family's Decision
 ---
 
 
