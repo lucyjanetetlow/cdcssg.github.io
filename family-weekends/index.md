@@ -2,18 +2,11 @@
 layout: familyweekends
 title: Family Weekends
 group: familyweekends
-sitemap:
-    priority: 0.8
+sitemap: 
+  priority: 0.8
 description: Details of the Cri du Chat Syndrome Support Group annual family weekends
 keywords: conference
+published: true
 ---
 
 Our support group has been holding family weekends since the early 1990s and is the only event in the UK that is held specifically for the families, carers and professionals interested in Cri du Chat Syndrome.
-
-## [Family Weekend 2014 &raquo;](2014/index.html)
-
-We hope you will consider joining us at our next [family weekend](2014/index.html) and, if this is your first time, look forward to meeting you!
-
-We know that it can be hard to come to your first family weekend, so if you would like, we can arrange for a committee member to get in touch prior to the event to introduce themselves and their family.
-
-
