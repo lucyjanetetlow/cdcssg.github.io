@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Split school placement provides Holly with the best of both worlds
@@ -15,5 +15,4 @@ A few years ago we even had all three of our daughter’s at the same school, Ho
 
 When Holly’s special school was inspected by Education Scotland their report identified the importance of placements like Holly’s. Since then an increasing number of children from Holly’s school have secured similar placements in their local schools (approximately 10% of children in the nursery and primary school). We know that the special school is Holly’s primary source of education however this is complemented and enhanced by her placement in a mainstream school.
 
-Integration will continue when Holly moves to secondary education. The school she is in has designated space in the mainstream senior school, and from age 16 they can even be based full time within the mainstream school supported and taught by staff from the special school. When this was first introduced a few years ago a number of parents were extremely apprehensive about this given their children had never been in a mainstream school, however the project has been a huge success. The young people have benefited greatly from being able to use the facilities of a new secondary school including art rooms, music rooms and the gym. Children from the senior years of the mainstream school spend time with our young people and help them integrate in the canteen at lunchtime etc.  This has further established links across the community for our young people and I guess that is what it is all about - helping our young people to be part of their local community whilst giving them the best educational opportunities. 
-
+Integration will continue when Holly moves to secondary education. The school she is in has designated space in the mainstream senior school, and from age 16 they can even be based full time within the mainstream school supported and taught by staff from the special school. When this was first introduced a few years ago a number of parents were extremely apprehensive about this given their children had never been in a mainstream school, however the project has been a huge success. The young people have benefited greatly from being able to use the facilities of a new secondary school including art rooms, music rooms and the gym. Children from the senior years of the mainstream school spend time with our young people and help them integrate in the canteen at lunchtime etc.  This has further established links across the community for our young people and I guess that is what it is all about - helping our young people to be part of their local community whilst giving them the best educational opportunities.
