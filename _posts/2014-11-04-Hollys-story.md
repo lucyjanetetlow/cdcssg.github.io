@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Split school placement provides Holly with the best of both worlds
