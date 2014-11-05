@@ -1,8 +1,12 @@
 ---
 published: true
+layout: blog_post
+title: Holly's Story
+author: Sarah Brooks
 ---
 
 ## Split school placement provides Holly with the best of both worlds
+
 Our daughter Holly has CDC and attends a split mainstream/special school placement in Scotland. Holly’s main education setting is a fantastic special school for children with complex needs. Children who attend will have a severe to profound learning disability and additionally many have complex physical disabilities and communication problems.  She has been attending since the age of two, and will remain there until she turns 18.  There are resident physiotherapists and speech and language therapists. The school has a wonderful ethos and primarily focuses on educating as opposed to looking after the children. 
 
 In tandem with this Holly has benefited hugely from a social placement at our local mainstream primary school. She has been attending sessions at this school since nursery and has moved through the school with her peer group. 
