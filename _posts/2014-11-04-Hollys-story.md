@@ -2,7 +2,7 @@
 published: true
 layout: blog_post
 title: Holly's Story
-author: Sarah Brooks
+author: Jenny Sorbie
 ---
 
 ## Split school placement provides Holly with the best of both worlds
