@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '1.9.3'
-#ruby-gemset=cdcssg
+ruby '2.1.4'
 
 gem 'github-pages'
 gem 'rake'
