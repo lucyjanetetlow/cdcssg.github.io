@@ -6,7 +6,7 @@ published: false
 
 Cicely turned 18 in October and with that she is now an adult, and as such passes from children services to adult. Transition!!!
 
-Cicely has been a ‘looked after person’ since the age of 12,  living in a lovely residential home – Haresfield - a few miles from us in Lacock, Wiltshire (of Harry Potter fame). The home is run by[Quarriers](http://www.quarriers.org.uk  "Quarriers") a Scottish Quaker charity that runs homes for people with special needs. She is voluntarily looked after by the state under section 40 as a LAP (looked after person) whereby we (her parents) have full control over all her needs; medical, educational and social.
+Cicely has been a ‘looked after person’ since the age of 12,  living in a lovely residential home – Haresfield - a few miles from us in Lacock, Wiltshire (of Harry Potter fame). The home is run by [Quarriers](http://www.quarriers.org.uk  "Quarriers") a Scottish Quaker charity that runs homes for people with special needs. She is voluntarily looked after by the state under section 40 as a LAP (looked after person) whereby we (her parents) have full control over all her needs; medical, educational and social.
 
 We have been preparing for transition over the last 16 months with Cicely’s social worker, looking into the options of life after Haresfield - considering residential care or the council’s Social Services preference of community-based housing using her care plan budget package (stipulated by her needs) and housing benefits etc.  
 
