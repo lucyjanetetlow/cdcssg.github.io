@@ -1,5 +1,7 @@
 ---
 published: true
+title: Cicely's Story
+author: Caspar Hull
 ---
 
 ## Transition trials and tribulations
