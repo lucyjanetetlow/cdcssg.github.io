@@ -16,7 +16,7 @@ So we went out looking for alternative placements and the charities that run the
 
 Within the cul-de-sac we identified a residential bungalow with five rooms; three already occupied and the fourth arriving soon, all of whom we perceived as suitable (she had actually been at school with two of them).  The Council/SS said no way, again wanting ‘no to residential, only assisted living’.  They also cited that their occupational therapist had assessed her needs and that standard housing was suitable.   We asked for a copy of the report and found that it stated (after a two hour visit and observation) that Cicely could manage stairs! toilet herself! no need for a downstairs loo! could live in a normal house, no need for a garden, hills and slopes OK, it downgraded all her emotional needs that had been set out in a multi-agency LAP report and MY PLAN made up by 10 other professionals, which the council/SS thus ignored as their agency OT was sufficient and overriding. The OT even tried to override Cicely's orthopaedic surgeon’s report of her hip surgeries (8) and spinal fusion concerns for future disabilities certainties.
 
-So we put on trench mentality, took up an advocate (HYP) https://www.nyas.net, investigated specialist solicitors, and asked for an emergency multi-agency meeting with the council before her 18th birthday to put forward a more realistic case of her needs.  They ignored this. We made an official complaint to the council and got a written reply the next day which did not address the request for a meeting. So our advocate called the head council honcho and within half an hour we had a meeting booked for the day before her 18th birthday (five days away). 
+So we put on trench mentality, took up an [advocate](https://www.nyas.net "NYAS"), investigated specialist solicitors, and asked for an emergency multi-agency meeting with the council before her 18th birthday to put forward a more realistic case of her needs.  They ignored this. We made an official complaint to the council and got a written reply the next day which did not address the request for a meeting. So our advocate called the head council honcho and within half an hour we had a meeting booked for the day before her 18th birthday (five days away). 
 
 We asked her surgeons for new reports, her community special needs nurse, her carers, her school carers, the new residential home’s mission statement and strategy, and our own worries and critique of the OTs report highlighting its inaccuracies which were emailed to the head of SS over the weekend. By the Monday lunchtime (Tuesday lunchtime meeting) we were rung by the SS man that they had reassessed her needs and accepted that the residential home could provide her inclusive needs and care in the community.
 
@@ -32,6 +32,7 @@ It feels like it has been a long road to get to this point but we are confident 
 
 Love you all
 Caspar, Louise, Anthony, Imogen, Cicely and Joanna
+
 
 (Incidentally after Cicely’s MY PLAN was submitted they asked if they could use it as an 'example' and we hope to be able to pass this on at a later date). 
 
