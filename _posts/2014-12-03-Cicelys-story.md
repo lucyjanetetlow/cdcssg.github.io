@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Transition trials and tribulations
