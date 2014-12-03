@@ -37,6 +37,3 @@ Caspar, Louise, Anthony, Imogen, Cicely and Joanna
 
 
 _(Incidentally after Cicely’s MY PLAN was submitted they asked if they could use it as an 'example' and we hope to be able to pass this on at a later date)._ 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
