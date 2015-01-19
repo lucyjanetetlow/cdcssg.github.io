@@ -131,15 +131,12 @@ dl#fundraisers dd {
 .blog-post img {
   max-height: 300px;
   padding-left: 20px;
+  padding-right: 20px;
   padding-bottom: 20px;
 }
 
-.blog-post img:nth-of-type(odd) {
-  float: right;
-}
-
-.blog-post img:nth-of-type(even) {
-  float: left;
+.blog-post h1, .blog-post h2, .blog-post h3, .blog-post h4 {
+  clear: both;
 }
 
 .navbar-search .search-query {

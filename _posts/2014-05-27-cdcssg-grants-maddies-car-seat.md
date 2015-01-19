@@ -5,6 +5,7 @@ author: Lianne Thayre
 ---
 
 ![Maddie](/img/posts/2014-05-27/maddie.jpg)
+{: .pull-right}
 
 Back in January of this year, it was decided by our physiotherapist that from a physio point of view Maddie’s baby car seat was no longer good for her posture.
 

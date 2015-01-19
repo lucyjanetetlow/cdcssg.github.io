@@ -4,9 +4,9 @@ title: "Our Story: The Sparkes Family"
 author: Jamie Sparkes
 ---
 
-![Sparkes Family](/img/posts/2014-04-28/pic1.jpg)
-
 Hello, we are Jamie and Amy Sparkes. We have a son called Harry who is now 5 years old (born 2008) and a daughter called Poppy who is now 16 months old (born 2012) and we live in Liverpool.
+
+![Sparkes Family](/img/posts/2014-04-28/pic1.jpg)
 
 ## Diagnosis
 
@@ -36,6 +36,7 @@ We adopted a very positive attitude towards the situation that we found ourselve
 Thursday evening, Harry was in bed and we had a friend round for some dinner, Amy had some twinges but was not expecting to be in labour just yet. Amy vacuumed the lounge and spare room also changing the bedding. By around 11pm Amy thought it was about time we went in to hospital. After a few phone calls and a quick drive our baby arrived at 12:43am (just 13 minutes after arriving at the hospital and 10 days before the due date.
 
 ![Poppy](/img/posts/2014-04-28/pic3.jpg)
+{: .pull-left}
 
 Despite our panic and concerns all seemed to be going well. Jamie went home to sleep and to take Harry to school in the morning.
 
@@ -46,6 +47,7 @@ We both stood and watched as nurses and doctors poked, prodded, inserted tubes a
 ## The fun and games began
 
 ![Sparkes Family](/img/posts/2014-04-28/pic4.jpg)
+{: .pull-right}
 
 It became apparent over the following months that Poppy had several medical issues that needed attention. Those were:
 
@@ -56,6 +58,7 @@ It became apparent over the following months that Poppy had several medical issu
 * Not to mention Chicken Pox, a perforated Ear Drum and Slap Cheek
 
 ![Poppy](/img/posts/2014-04-28/pic5.jpg)
+{: .pull-left}
 
 Poppy had three 999 Ambulance admissions, 4 procedures (2 to fix her floppy Larynx and 2 to insert feeding tubes) over 3 operations plus a multitude of appointments with 8 different consultants and home visits from a Physiotherapist, Portage play therapist, Speech and Language therapist, Dietician, and various community nurses.
 
@@ -64,12 +67,14 @@ Jamie now has more bags to carry when he returns from the Chemist than when he g
 ## Happy Birthday Poppy
 
 ![1st Birthday](/img/posts/2014-04-28/pic6.jpg)
+{: .pull-right}
 
 Looking back over one year of life, Poppy has achieved so much, she has overcome massive hurdles, she has touched so many people, she has brought new friends into our lives and she has defied the odds that seemed to be stacked against her from before she was even born.
 
 ## Where we are now
 
 ![Harry & Poppy](/img/posts/2014-04-28/pic7.jpg)
+{: .pull-left}
 
 We still live one day at a time, we take nothing for granted and we celebrate each achievement as it comes.
 
@@ -82,6 +87,7 @@ Harry has hardly had a mention! He has had his own ups and downs and is an amazi
 
 ## What does the future hold?
 
-![fds](/img/posts/2014-04-28/pic8.jpg)
+![Sparkes Family](/img/posts/2014-04-28/pic8.jpg)
+{: .pull-right}
 
 We don’t know what tomorrow will bring and we don’t worry about it! When tomorrow comes we will deal with that day, using the resources given to us. We cannot live this life in our own strength.
