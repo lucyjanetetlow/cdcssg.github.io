@@ -1,5 +1,6 @@
 ---
-published: false
+published: true
+author: Amanda Smith
 ---
 
 ![Girls](/img/posts/2015-01-31/girls.jpg)￼
