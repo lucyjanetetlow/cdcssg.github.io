@@ -1,4 +1,3 @@
-auto: true
 permalink: /about/news/:year/:month/:day/:title.html
 markdown: kramdown
 defaults:
