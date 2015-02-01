@@ -12,6 +12,21 @@ defaults:
       type: "posts"
     values:
       layout: "blog_post"
+  -
+    scope:
+      path: "events"
+      type: "pages"
+    values:
+      layout: "events"
+      group: "events"
+  -
+    scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"
+      group: "events"
 collections:
   events:
     output: true
+maps_api_key: AIzaSyCtjkfaB7Q7Qf2Fy11YrtNn9gZFKeGtUwM

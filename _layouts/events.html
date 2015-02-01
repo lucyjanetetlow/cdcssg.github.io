@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<div class="row-fluid">
+  <div class="span3">
+    <div class="well sidebar-nav">
+      <ul class="nav nav-list">
+        <li{% if page.url == "/events/index.html" %} class="active"{% endif %}>
+          <a href="/events/index.html">Events</a>
+        </li>
+        <li{% if page.url == "/events/meetups.html" %} class="active"{% endif %}>
+          <a href="/events/meetups.html">How to run a meetup</a>
+        </li>
+        {% assign events = site.events | sort: "end" | reverse %}
+        {% assign year = 9999 %}
+        {% for event in events %}
+          {% assign thisyear = event.end | date: "%Y" %}
+          {% if thisyear != year %}
+            {% assign year = thisyear %}
+            <li class='nav-header'>{{year}}</li>          
+          {% endif %}
+          <li{% if page.url == event.url %} class="active"{% endif %}>
+            <a href="{{event.url}}">{{event.title}}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div><!--/.well -->
+  </div><!--/span-->
+
+  <div class='span9'>
+    <h1>{{page.title}}</h1>
+    {{ content }}
+  </div>
+</div>
