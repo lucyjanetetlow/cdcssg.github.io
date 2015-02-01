@@ -1,7 +1,5 @@
 ---
-layout: community
 title: Cri du Chat Syndrome Awareness Day
-group: community
 description: Details of Cri du Chat Syndrome Day
 keywords:
 ---

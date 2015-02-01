@@ -1,7 +1,5 @@
 ---
-layout: community
 title: Global Community
-group: community
 description: Links to Cri du Chat groups around the world
 keywords:
 ---

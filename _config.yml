@@ -27,6 +27,18 @@ defaults:
       group: "about"
   -
     scope:
+      path: "community"
+    values:
+      layout: "community"
+      group: "community"
+  -
+    scope:
+      path: "about"
+    values:
+      layout: "about"
+      group: "about"
+  -
+    scope:
       path: ""
       type: "events"
     values:
