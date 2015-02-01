@@ -8,6 +8,6 @@ We're excited to announce that this years' family weekend will be held at Chessi
 
 Speakers and workshops will be confirmed soon, but it's shaping up to be a great event!
 
-For booking details and prices, take a look at the [Family Weekend 2014](/family-weekends/2014/index.html) page, which has all the details.
+For booking details and prices, take a look at the [Family Weekend 2014](/events/2014/family-weekend.html) page, which has all the details.
 
 See you there!

@@ -21,11 +21,11 @@ However, probably the best place for help and advice from fellow CdCS parents is
 in the same situation as you, who are more than happy to give advice, share experiences,
 and provide a shoulder to lean on when things are hard.
  
-## Annual Family Weekend
+## Events
 
-The other main place to get information is at our annual [Family Weekends](/family-weekends/index.html).
-Once a year, we organise a weekend-long get-together for parents and children, where you 
-can make friends, get advice, and learn more about how best to help your child.
+The other main place to get information is at one of our regular [events](/events/index.html).
+We organise regional meetups and national weekend-long get-togethers for parents and children, 
+where you can make friends, get advice, and learn more about how best to help your child.
 
 It can be hard to get the courage to come along the first time, but we promise it's worth it!
 

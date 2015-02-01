@@ -7,7 +7,7 @@ keywords:
 ---
 
 We always need to raise money so that we can provide support and advice to families, 
-run the annual family weekend, and so on. If you'd like to help, there are lots of ways 
+run family weekends, and other events. If you'd like to help, there are lots of ways 
 you can do so:
 
 ## [Make a donation](donate.html)
