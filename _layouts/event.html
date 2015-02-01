@@ -9,8 +9,8 @@ layout: events
   </a>
 {% endif %}
 
-<h3>Starts at {{ page.start | date_to_xmlschema }}</h3>
-<h3>Ends at {{ page.end | date_to_xmlschema  }}</h3>
+{% assign event = page %}
+<h3>{% include event_dates.html %}</h3>
 
 {% if page.location %}
   <h3>Venue: {{ page.location }}</h3>
