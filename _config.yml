@@ -21,6 +21,12 @@ defaults:
       group: "events"
   -
     scope:
+      path: "about"
+    values:
+      layout: "about"
+      group: "about"
+  -
+    scope:
       path: ""
       type: "events"
     values:

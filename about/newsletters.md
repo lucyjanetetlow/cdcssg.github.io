@@ -1,7 +1,5 @@
 ---
-layout: about
 title: Newsletters
-group: about
 description: Download Cri du Chat Syndrome Support Group newsletters
 keywords:
 ---

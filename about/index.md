@@ -1,7 +1,5 @@
 ---
-layout: about
 title: About Us
-group: about
 description: About the Cri du Chat Syndrome Support Group
 keywords:
 ---

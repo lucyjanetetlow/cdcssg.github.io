@@ -1,7 +1,5 @@
 ---
-layout: about
 title: Colophon
-group: about
 description:
 keywords:
 ---
