@@ -142,3 +142,8 @@ dl#fundraisers dd {
 .navbar-search .search-query {
   width: 100px;
 }
+
+.events li.span4 {
+  margin-left: 0px !important;
+  margin-right: 1%;
+}
