@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Dribbling
-group: information
 description: Information on dribbling associated with Cri du Chat Syndrome
 keywords:
 ---

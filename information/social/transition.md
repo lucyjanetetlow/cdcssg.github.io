@@ -1,8 +1,6 @@
 ---
-layout: information
 title: Transition to Adulthood
-group: information
-description: Changing to adult social care with Cri du Chat Syndrome
+description: Canging to adult social care with Cri du Chat Syndrome
 keywords:
 ---
 

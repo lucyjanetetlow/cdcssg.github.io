@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Behavioural Problems
-group: information
 description: Information on behavioural issues related to Cri du Chat Syndrome
 keywords:
 ---

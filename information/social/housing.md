@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Housing
-group: information
 description: Housing details for those affected by Cri du Chat Syndrome
 keywords:
 ---

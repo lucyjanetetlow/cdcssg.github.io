@@ -33,10 +33,22 @@ defaults:
       group: "community"
   -
     scope:
-      path: "about"
+      path: "fundraising"
     values:
-      layout: "about"
-      group: "about"
+      layout: "fundraising"
+      group: "fundraising"
+  -
+    scope:
+      path: "information"
+    values:
+      layout: "information"
+      group: "information"
+  -
+    scope:
+      path: "start_here"
+    values:
+      layout: "start_here"
+      group: "start_here"
   -
     scope:
       path: ""

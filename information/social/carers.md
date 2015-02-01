@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Help for Carers
-group: information
 description: Information and help for those caring for someone with Cri du Chat Syndrome
 keywords:
 ---

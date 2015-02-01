@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Diagnosis
-group: information
 description: How Cri du Chat Syndrome is diagnosed
 keywords:
 ---

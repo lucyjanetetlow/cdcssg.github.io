@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Treatment
-group: information
 description: Treatment of Cri du Chat Syndrome
 keywords:
 ---

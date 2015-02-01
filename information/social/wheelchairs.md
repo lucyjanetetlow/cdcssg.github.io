@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Wheelchairs
-group: information
 description: Information on wheelchairs and specialist buggies
 keywords:
 ---

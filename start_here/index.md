@@ -1,7 +1,5 @@
 ---
-layout: start_here
 title: Start Here
-group: start_here
 sitemap:
     priority: 1.0
 description: Recently diagnosed with Cri du Chat Syndrome? Start here.

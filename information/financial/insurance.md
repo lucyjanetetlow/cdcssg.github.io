@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Insurance
-group: information
 description: How to get insurance for those affected by Cri du Chat Syndrome
 keywords:
 ---

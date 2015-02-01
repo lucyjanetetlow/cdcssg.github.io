@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Sleeplessness
-group: information
 description: Information on sleep problems associated with Cri du Chat Syndrome
 keywords:
 ---

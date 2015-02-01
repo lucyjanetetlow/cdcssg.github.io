@@ -1,7 +1,5 @@
 ---
-layout: start_here
 title: The Future
-group: start_here
 description: Recently diagnosed with Cri du Chat Syndrome? What the future holds.
 keywords:
 ---

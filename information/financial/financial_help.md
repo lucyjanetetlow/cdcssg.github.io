@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Financial Help
-group: information
 description: Financial help for those affected by Cri du Chat Syndrome, and their carers
 keywords: benefits
 ---

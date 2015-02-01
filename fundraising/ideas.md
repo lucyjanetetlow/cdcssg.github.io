@@ -1,7 +1,5 @@
 ---
-layout: fundraising
 title: Fundraising Ideas
-group: fundraising
 description: Fundraising ideas for the Cri du Chat Syndrome Support Group
 keywords:
 ---

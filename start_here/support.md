@@ -1,7 +1,5 @@
 ---
-layout: start_here
 title: Support Group
-group: start_here
 description: Recently diagnosed with Cri du Chat Syndrome? We're here to help.
 keywords:
 ---

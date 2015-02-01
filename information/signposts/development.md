@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Development
-group: information
 description: Child development information for those affected by Cri du Chat Syndrome
 keywords:
 ---

@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Clinical Advisory Group
-group: information
 sitemap:
     priority: 0.90
 description: Details of the Cri du Chat Syndrome Support Group's clinical advisory group

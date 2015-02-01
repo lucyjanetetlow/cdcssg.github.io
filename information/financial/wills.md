@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Wills and Trusts
-group: information
 description: Making out an appropriate will to benefit those affected by Cri du Chat Syndrome
 keywords:
 ---

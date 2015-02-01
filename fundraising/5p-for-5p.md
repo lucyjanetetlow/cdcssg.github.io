@@ -1,7 +1,5 @@
 ---
-layout: fundraising
 title: 5p for 5p
-group: fundraising
 description: Details of the 5p-for-5p fundraising scheme
 keywords:
 ---

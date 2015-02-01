@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Toileting
-group: information
 description: Information on toileting and toilet training for those affected by Cri du Chat Syndrome
 keywords:
 ---

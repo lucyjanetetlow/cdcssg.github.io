@@ -1,7 +1,5 @@
 ---
-layout: information
 title: Therapies
-group: information
 description: Information on various therapies used to help those affected by Cri du Chat Syndrome
 keywords:
 ---
