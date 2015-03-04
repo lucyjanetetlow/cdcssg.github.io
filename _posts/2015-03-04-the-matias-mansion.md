@@ -2,8 +2,8 @@
 published: true
 ---
 
-##The extension,
-or "Matias Mansion" as we like to call it, has finally been completed.  It has been a long hard slog of four years, but it has been well worth it.  We were very fortunate in Oxford, the council provides an interest free loan in addition to the £25,000 disabled grant available nationwide.  This meant that we were able to get exactly what was required without losing valuable space.
+##House Adaptations
+The extension, or "Matias Mansion" as we like to call it, has finally been completed.  It has been a long hard slog of four years, but it has been well worth it.  We were very fortunate in Oxford, the council provides an interest free loan in addition to the £25,000 disabled grant available nationwide.  This meant that we were able to get exactly what was required without losing valuable space.
 
 Matias is ten years old and very physically disabled.  He can't walk and just about manages to sit up-right.  Because we knew caring for Matias at home was going to be difficult in the long-term we set out our journey of altering the house to his needs.  I have to admit I was a little sceptical about the potential benefits versus the cost of the whole project.  
 
