@@ -2,7 +2,7 @@
 published: true
 ---
 
-## South West Meet Up Review
+## A Review
 The South West meet up was held in Cardiff on 7th February 2015. This was the first event in this area, the first event we had attended, and the first we organised! We are mummy and daddy to 18 month old Morgan and we had many emotions from excitement to nerves in the run up to the event.  
 
 The turnout was great, we had eight families in total and most of these families had never attended a meet up or even met another CDC family, so it was lovely to see everyone getting together and chatting. Many of the people we had chatted to via the Facebook page so it was nice to finally meet in person. We feel this kind of support is invaluable; after all we are the experts about our children and it’s good to be able to share stories and experiences with people who truly understand what it’s like to be in your shoes. It was also lovely to see all the children playing together, including all the siblings, because let’s not forget, they are an important part of the family too. 
