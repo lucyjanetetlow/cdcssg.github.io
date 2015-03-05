@@ -20,4 +20,3 @@ In addition to the lift, Matias now has a full sized room where we can easily ma
 
 Anyway, if you are thinking of extending, I would definitely recommend that you do.  It may be hard work dealing with the bureaucracy, especially the finances, but it is well worth it in the end.
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
