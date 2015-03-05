@@ -14,5 +14,3 @@ We would like to thank Eglwys y Crwys for letting us use the room free of charge
 
 Watch this space for another similar South West event!
 
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
