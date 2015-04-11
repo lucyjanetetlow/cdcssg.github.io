@@ -1,6 +1,10 @@
-<dt><a href='https://www.justgiving.com/helen-walden'>Helen Walden</a></dt>
-<dd>Helen's Boxing Day Dip on December 26th, 2014</dd>
-<dt><a href='http://www.justgiving.com/Vicki-Coulson'>Vicki Coulson</a></dt>
-<dd>In memory of Barbara Coulson</dd>
-<dt><a href='http://www.justgiving.com/Kelly-Ann-Moss1'>Kelly-Ann Moss</a></dt>
-<dd>London to Brighton Cycle on September 7th, 2014</dd>
+<dl id='fundraisers' class="dl-horizontal">
+  {% for fundraiser in site.data.fundraisers %}
+    <dt><a href='{{fundraiser.url}}'>{{fundraiser.name}}</a></dt>
+    <dd>{{fundraiser.title}}{% if fundraiser.date %} on {{fundraiser.date}}{% endif %}</dd>
+  {% endfor %}
+</dl>
+
+<p>
+  <a href='https://www.justgiving.com/criduchat'>Find more fundraisers on JustGiving</a>
+</p>
