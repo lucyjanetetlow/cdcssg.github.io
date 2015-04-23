@@ -88,5 +88,3 @@ Time commitment: Approximately 4 hours per month plus committee meetings. As a c
 Committee meetings are usually held at The Holiday Inn, Milton Keynes on a Saturday between 11-3. Food is provided.
 Travel expenses will be met by the group.
 Attendance via Skype (or alternative) is possible but preference will be given to people who can attend in person.
- 
- 
