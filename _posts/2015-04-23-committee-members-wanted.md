@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## Volunteer Committee Members wanted 
