@@ -1,14 +1,15 @@
 ---
 title: Cri du Chat Syndrome Awareness Day
 description: Details of Cri du Chat Syndrome Day
-keywords:
+keywords: null
+published: true
 ---
 
-## 5th May 2014
+## 5th May 2015
 
 <img src='/img/wristband.jpg' style='float: right; margin: 20px; border-radius: 10px'/>
 
-Individuals and families affected by Cri du Chat Syndrome will be using Cri du Chat Awareness Week (4-10 May 2014) to send the message that these individuals deserve to be recognized for what they *can* do, not what they can't.
+Individuals and families affected by Cri du Chat Syndrome will be using Cri du Chat Awareness Week (3-9 May 2015) to send the message that these individuals deserve to be recognized for what they *can* do, not what they can't.
 
 The 5th May is designated **Cri du Chat Syndrome Day** and this is when we ask our friends, supporters and families to help us raise awareness in the United Kingdom of Cri du Chat Syndrome.
 
