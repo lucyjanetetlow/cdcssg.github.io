@@ -1,9 +1,19 @@
-<dl id='fundraisers' class="dl-horizontal">
+<ul class="thumbnails">
   {% for fundraiser in site.data.fundraisers %}
-    <dt><a href='{{fundraiser.url}}'>{{fundraiser.name}}</a></dt>
-    <dd>{{fundraiser.title}}{% if fundraiser.date %} on {{fundraiser.date}}{% endif %}</dd>
+    <li class="span4" style='margin-left: 0px'>
+      <div class="thumbnail" style='background-image: url({{fundraiser.image}}); background-size: cover; background-position: {{fundraiser.image_pos}}; padding: 0px'>
+        <div class="caption" style='background-color: rgba(255,255,255,0.75); min-height:15em'>
+          <h2>{{fundraiser.name}}</h2>
+          <p>{{fundraiser.title}}</p>
+          {% if fundraiser.date %}
+            <p>{{fundraiser.date}}</p>
+          {% endif %}
+          <p><a href="{{fundraiser.url}}" class="btn btn-primary" role="button">Donate!</a></p>
+        </div>
+      </div>
+    </li>
   {% endfor %}
-</dl>
+</ul>
 
 <p>
   <a href='https://www.justgiving.com/criduchat'>Find more fundraisers on JustGiving</a>
