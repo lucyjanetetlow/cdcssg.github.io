@@ -28,4 +28,4 @@ Our current CAG members are:
 
 ## Eligibility
 
-CAG advice is freely available to both members and non-members, though we would encourage anyone using it to [join as a member](/about/membership.html) or [donate](/fundraising/donate.html) to help us fund this service.
+CAG advice is freely available to anyone affected by Cri du Chat Syndrome, though we would encourage anyone using it to [make a donation](/fundraising/donate.html) to help us run this service.

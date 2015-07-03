@@ -20,7 +20,7 @@ The group provides information, advice and support through its
 [Clinical Advisory Group](/information/cag.html), formed by members of the 
 [committee](/about/committee.html) and outside professionals.
 
-We receive no government funding and are funded by memberships, individual and 
+We receive no government funding and are funded by individual and 
 corporate donations as well as fundraising activities. 
 
 

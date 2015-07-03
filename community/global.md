@@ -4,7 +4,7 @@ description: Links to Cri du Chat groups around the world
 keywords:
 ---
 
-Membership of the CdCSSG is not limited to families in the UK and Ireland, and we have members from all over the world.
+The CdCSSG is not limited to families in the UK and Ireland, and we have supporters from all over the world.
 
 However there are a number of other groups around the world, and we have done our best to compile a complete list. If you are 
 aware of any other groups we have missed please [let us know](mailto:office@criduchat.org.uk).
