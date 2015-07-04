@@ -3,8 +3,16 @@ title: Newsletters
 description: Download Cri du Chat Syndrome Support Group newsletters
 keywords:
 ---
+We publish a monthly email newsletter, full of information and news from the Support Group. You can see [old newsletters here](http://us7.campaign-archive2.com/home/?u=8b563979fb561ed56e313f0d6&id=44b5765777), and if you'd like to receive the next copy, subscribe below!
 
-The support group newsletter is published twice a year, and sent to all subscribers. You can download all other previous newsletters here:
+<div class='well'>
+  <h2>Subscribe to our mailing list</h2>
+  {% include mailchimp.html %}
+</div>
+
+## Biannual Newsletter (before 2014)
+
+From 1989 until 2014, we published a paper newsletter twice a year, which was sent to all members of the group. If you'd like a look into our history, you can download some of those old newsletters here!
 
 * [#27: Spring 2006](/downloads/newsletters/27_spring_2006.pdf)
 * [#28: Winter 2006](/downloads/newsletters/28_winter_2006.pdf)
