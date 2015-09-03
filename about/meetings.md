@@ -9,6 +9,6 @@ The date for the next committee meeting has yet to be decided.
 
 ## Previous Meetings
 
-* [14th June 2015: Minutes](/downloads/minutes/2015-06-14.pdf)
+* [13th June 2015: Minutes](/downloads/minutes/2015-06-13.pdf)
 
 More minutes will be made available from older meetings in due course. Bear with us!
