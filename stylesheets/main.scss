@@ -1,3 +1,6 @@
+---
+---
+
 @font-face {
   font-family: "Transport New Light";
   src: url(/font/TransportNewLight.otf);
@@ -37,21 +40,25 @@ h3 {
 	font-size: 15px;
 }
 
-.homepage-row div.alert-info {
-  padding: 19px;
-}
+.homepage-row {
+  
+  div.alert-info {
+    padding: 19px;
+  }
 
-.homepage-row .hero-unit {
-  background: url(/img/header.jpg);
-  background-repeat: no-repeat;
-  background-color: #b7b7bb;
-  background-size: cover;
-  color: white;
-  background-position: center center;
-}
+  .hero-unit {
+    background: url(/img/header.jpg);
+    background-repeat: no-repeat;
+    background-color: #b7b7bb;
+    background-size: cover;
+    color: white;
+    background-position: center center;
+  }
 
-.homepage-row div.well-content {
-  min-height: 100px;
+  div.well-content {
+    min-height: 100px;
+  }
+  
 }
 
 footer {
@@ -59,10 +66,10 @@ footer {
   border-top: 1px solid #eee;
   padding-top: 20px;
   font-size: 85%;
-}
-
-footer a {
-  color: black;
+  
+  a {
+    color: black;
+  }
 }
 
 a#logo img {
@@ -78,34 +85,34 @@ a#donate {
   margin-right: 20px;
 }
 
-div#committee div {
-	clear: both;
-}
+div#committee {
+  div {
+	  clear: both;
+    
+    img {
+    	width: 150px;
+    	height: 200px;
+    	-webkit-border-radius: 10px;
+    	-moz-border-radius: 10px;
+    	border-radius: 10px;
+    }
 
-div#committee div img {
-	width: 150px;
-	height: 200px;
-	-webkit-border-radius: 10px;
-	-moz-border-radius: 10px;
-	border-radius: 10px;
-}
+    :nth-child(even) {
+    	text-align: right;
+    }
 
-div#committee div:nth-child(even) {
-	text-align: right;
-}
+    :nth-child(odd) img {
+    	float: left;
+    	margin-right: 20px;
+    }
 
-div#committee div:nth-child(odd) img {
-	float: left;
-	margin-right: 20px;
-}
+    :nth-child(even) img {
+    	float: right;
+    	margin-left: 20px;
+    }
 
-div#committee div:nth-child(even) img {
-	float: right;
-	margin-left: 20px;
-}
+  }
 
-#fundraisers {
-  margin-bottom: 10px;
 }
 
 .service-icon {
@@ -120,23 +127,19 @@ div#committee div:nth-child(even) img {
   margin-top: 40px;
 }
 
-dl#fundraisers dt {
-  width: 200px;
-}
 
-dl#fundraisers dd {
-  margin-left: 220px;
-}
+.blog-post {
+  
+  img {
+    max-height: 300px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+  }
 
-.blog-post img {
-  max-height: 300px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-}
-
-.blog-post h1, .blog-post h2, .blog-post h3, .blog-post h4 {
-  clear: both;
+  h1, h2, h3, h4 {
+    clear: both;
+  }
 }
 
 .navbar-search .search-query {
@@ -152,17 +155,20 @@ p#spinner {
   text-align: center;
 }
 
-ul.fundraisers li.span4 {
-  margin-left: 0px;
-}
+ul.fundraisers {
+  
+  li.span4 {
+    margin-left: 0px;
+  }
 
-ul.fundraisers div.thumbnail {
-  background-size: cover; 
-  background-position: center;
-  padding: 0px;
-}
+  div.thumbnail {
+    background-size: cover; 
+    background-position: center;
+    padding: 0px;
+  }
 
-ul.fundraisers div.caption {
-  background-color: rgba(255,255,255,0.75); 
-  min-height:15em;
+  div.caption {
+    background-color: rgba(255,255,255,0.75); 
+    min-height:15em;
+  }
 }
