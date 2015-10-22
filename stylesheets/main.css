@@ -147,3 +147,22 @@ dl#fundraisers dd {
   margin-left: 0px !important;
   margin-right: 1%;
 }
+
+p#spinner {
+  text-align: center;
+}
+
+ul.fundraisers li.span4 {
+  margin-left: 0px;
+}
+
+ul.fundraisers div.thumbnail {
+  background-size: cover; 
+  background-position: center;
+  padding: 0px;
+}
+
+ul.fundraisers div.caption {
+  background-color: rgba(255,255,255,0.75); 
+  min-height:15em;
+}

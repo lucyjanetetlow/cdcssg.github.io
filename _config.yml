@@ -60,3 +60,6 @@ collections:
   events:
     output: true
 maps_api_key: AIzaSyCtjkfaB7Q7Qf2Fy11YrtNn9gZFKeGtUwM
+justgiving:
+  app: d22062fe
+  charity_id: 99993

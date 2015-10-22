@@ -1,20 +1,44 @@
-<ul class="thumbnails">
-  {% for fundraiser in site.data.fundraisers %}
-    <li class="span4" style='margin-left: 0px'>
-      <div class="thumbnail" style='background-image: url({{fundraiser.image}}); background-size: cover; background-position: {{fundraiser.image_pos}}; padding: 0px'>
-        <div class="caption" style='background-color: rgba(255,255,255,0.75); min-height:15em'>
-          <h2>{{fundraiser.name}}</h2>
-          <p>{{fundraiser.title}}</p>
-          {% if fundraiser.date %}
-            <p>{{fundraiser.date}}</p>
-          {% endif %}
-          <p><a href="{{fundraiser.url}}" class="btn btn-primary" role="button">Donate!</a></p>
-        </div>
-      </div>
-    </li>
-  {% endfor %}
+<ul id='fundraisers' class="thumbnails fundraisers">  
 </ul>
-
+<p id='spinner'>
+  <i class="fa fa-spinner fa-pulse fa-4x"></i>
+  <br/>
+  Finding latest fundraisers...
+</p>
 <p>
   <a href='https://www.justgiving.com/criduchat'>Find more fundraisers on JustGiving</a>
 </p>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js"></script>
+<script>
+  $(document).ready(function() {
+    $.get('https://api.justgiving.com/{{site.justgiving.app}}/v1/fundraising/search?charityid={{site.justgiving.charity_id}}', function(d) {
+
+      $(d).find('Fundraiser').each(function() {
+
+        var $fundraiser = $(this); 
+        var name = $fundraiser.find('PageOwner').text();
+        var title = $fundraiser.find('EventName').text();
+        var date = moment($fundraiser.find('EventDate').text());
+        var url = 'https://' + $fundraiser.find('PageUrl').text();
+        var image = $fundraiser.find('ImageAbsoluteUrl').text() + '&template=size300x300';
+        if (date.year() >= 2014) {          
+          var html = '<li class="span4">';
+          html += '     <div class="thumbnail" style="background-image: url('+ image +');">';
+          html += '       <div class="caption">';
+          html += '         <h2>'+ name + '</h2>';
+          html += '         <p>'+ title + '</p>';
+          html += '         <p>'+ date.format("MMMM Do, YYYY"); + '</p>';
+          html += '         <p><a href="' + url + '" class="btn btn-primary" role="button">Donate!</a></p>';
+          html += '       </div>';
+          html += '     </div>';
+          html += '   </li>';
+        }
+
+        $('#fundraisers').append($(html));
+        
+        $('#spinner').fadeOut();
+        });
+    });
+  });
+</script>
