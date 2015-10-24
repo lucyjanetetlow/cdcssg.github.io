@@ -1,7 +1,5 @@
 ---
 title: How to run a meetup
-sitemap:
-  priority: 0.7
 description: How to run a Cri du Chat Support Group regional meetup
 ---
 

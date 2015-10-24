@@ -1,7 +1,5 @@
 ---
 title: Events
-sitemap:
-  priority: 0.8
 description: Details of the Cri du Chat Syndrome Support Group events
 keywords: conference meetup
 ---

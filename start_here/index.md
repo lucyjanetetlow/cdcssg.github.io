@@ -1,7 +1,5 @@
 ---
 title: Start Here
-sitemap:
-    priority: 1.0
 description: Recently diagnosed with Cri du Chat Syndrome? Start here.
 keywords:
 ---
