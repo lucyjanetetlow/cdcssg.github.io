@@ -23,6 +23,12 @@ description: Cri du Chat Syndrome Support group committee
           {{person.role}}:
         {% endif %}
         {{person.name}}
+        {% if person.facebook %}
+          <a href='https://www.facebook.com/{{person.facebook}}'><i class='fa fa-facebook-square'></i></a>
+        {% endif %}
+        {% if person.twitter %}
+          <a href='https://twitter.com/{{person.twitter}}'><i class='fa   fa-twitter-square'></i></a>
+        {% endif %}
       </h2>
       <p>
         "{{person.bio}}"
