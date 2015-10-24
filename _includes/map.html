@@ -1,19 +1,29 @@
 <link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.css" />
 <script src="http://cdn.leafletjs.com/leaflet-0.7.5/leaflet.js"></script>
+
+<link rel="stylesheet" href="/bower_components/leaflet.markercluster/dist/MarkerCluster.css" />
+<link rel="stylesheet" href="/bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+<script src="/bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+
 <div id="map" style="height: 500px; width: 100%" class='pull-right'></div>
 <script>
   var map = L.map('map').setView([ 55.50366, -4], 5);
   L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
     attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    maxZoom: 10,
+    maxZoom: 13,
     minZoom: 5,
     id: '{{site.mapbox.project_id}}',
     accessToken: '{{site.mapbox.public_key}}'
   }).addTo(map);
+	var markers = new L.MarkerClusterGroup({ showCoverageOnHover: false, zoomToBoundsOnClick: true });
+	var markersList = [];
   {% for location in site.data.locations %}
-    var marker = L.marker([{{location.latitude}}, {{location.longitude}}]).addTo(map);
-    marker.bindPopup("{{location.postcode}}")
+    var m = L.marker([{{location.latitude}}, {{location.longitude}}]);
+    m.bindPopup("{{location.postcode}}")
+    markersList.push(m);
+		markers.addLayer(m);
   {% endfor %}
+  map.addLayer(markers);
 </script>
 <caption>
   Locations are only approximate, using only the first section of each postcode.
