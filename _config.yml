@@ -63,3 +63,6 @@ maps_api_key: AIzaSyCtjkfaB7Q7Qf2Fy11YrtNn9gZFKeGtUwM
 justgiving:
   app: d22062fe
   charity_id: 99993
+mapbox:
+  project_id: floppy.npmjfm2g
+  public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
