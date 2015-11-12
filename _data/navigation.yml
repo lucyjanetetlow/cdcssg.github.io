@@ -1,0 +1,56 @@
+settings:
+  mobile_nav: 2 # Show 2 items in the top navbar on mobile
+tree:
+  New Families:
+    New Families: /start_here/index.html
+    The Future: /start_here/future.html
+    Support Group: /start_here/support.html
+  Information:
+    Information: /information/index.html
+    Signposts:
+    Diagnosis: /information/signposts/diagnosis.html
+    Treatment: /information/signposts/treatment.html
+    Development: /information/signposts/development.html
+    Common Problems:
+    Reflux: /information/problems/reflux.html
+    Dribbling: /information/problems/dribbling.html
+    Sleeplessness: /information/problems/sleeping.html
+    Behavioural Problems: /information/problems/behavioural.html
+    Toileting: /information/problems/toileting.html
+    Therapies:
+    Therapies: /information/therapies/therapies.html
+    Social:
+    Education: /information/social/education.html
+    Help for Carers: /information/social/carers.html
+    Transition to Adulthood: /information/social/transition.html
+    Travel: /information/social/travel.html
+    Housing: /information/social/housing.html
+    Wheelchairs: /information/social/wheelchairs.html
+    Financial:
+    Insurance: /information/financial/insurance.html
+    Financial Help: /information/financial/financial_help.html
+    Wills &amp; Trusts: /information/financial/wills.html
+    Advice:
+    Clinical Advisory Group: /information/cag.html
+    Genetics:
+    Genetics: /information/genetics.html
+  Events:
+    Events: /events/index.html
+    How to run a meetup: /events/meetups.html
+  Fundraising:
+    Fundraising: /fundraising/index.html
+    Support our work: /fundraising/donate.html
+    5p for 5p: /fundraising/5p-for-5p.html
+    Ideas: /fundraising/ideas.html
+  Community:
+    Community: /community/index.html
+    CdC Awareness Day: /community/cri-du-chat-day.html
+    Global: /community/global.html
+    Funding &amp; Grants: /community/grants.html
+  About Us:
+    About Us: /about/index.html
+    News: /about/news.html
+    Newsletters: /about/newsletters.html
+    Committee: /about/committee.html
+    Meetings &amp; Minutes: /about/meetings.html
+    Contact Us: /about/contact.html
