@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: What is CdC Awareness Week?
 author: Lucy Tetlow
 ---

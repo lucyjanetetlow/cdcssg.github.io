@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: "Survey - The Way Forward"
 author: Lucy Tetlow
 ---

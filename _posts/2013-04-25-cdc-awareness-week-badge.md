@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: CdC Awareness Week Badge
 author: Lucy Tetlow
 ---

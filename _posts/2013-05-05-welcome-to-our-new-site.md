@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: Welcome to our new site!
 author: James Smith
 ---

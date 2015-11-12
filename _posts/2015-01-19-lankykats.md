@@ -1,6 +1,5 @@
 ---
 published: true
-layout: blog_post
 title: "Lankykats supporting families affected by Cri du Chat Syndrome"
 author: Lucy Tetlow
 ---

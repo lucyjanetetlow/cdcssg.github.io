@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: CdC Day 2013 - The Pledge
 author: Lucy Tetlow
 ---

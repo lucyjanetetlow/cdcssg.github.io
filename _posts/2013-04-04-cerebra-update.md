@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: Cerebra Update
 author: Caspar Hull
 ---

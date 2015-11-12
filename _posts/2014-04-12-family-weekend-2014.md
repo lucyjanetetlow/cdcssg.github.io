@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: Family Weekend 2014
 author: Lucy Tetlow
 ---

@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: "CdCSSG Grants: Maddie's Car Seat"
 author: Lianne Thayre
 ---

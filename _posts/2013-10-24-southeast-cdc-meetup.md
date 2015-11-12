@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: Southeast CDC Meetup
 author: Amanda Smith
 ---

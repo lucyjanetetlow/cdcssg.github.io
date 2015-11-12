@@ -1,6 +1,5 @@
 ---
 published: true
-layout: blog_post
 title: Holly's Story
 author: Jenny Sorbie
 ---

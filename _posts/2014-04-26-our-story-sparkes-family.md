@@ -1,5 +1,4 @@
 ---
-layout: blog_post
 title: "Our Story: The Sparkes Family"
 author: Jamie Sparkes
 ---
