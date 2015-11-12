@@ -1,0 +1,23 @@
+<div class="navbar">
+  <div class="navbar-inner">
+    <ul class="nav">
+      {% for section in site.data.navigation.tree %}
+        {% assign title = section[0] %}
+        {% assign links = section[1] %}
+        <li{% if page.group == section[0] %} class='active'{% endif %}>
+          <a href="{{ links[title] }}">{{ section[0] }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+      <i class='fa fa-chevron-down' style='color: black'></i>
+    </a>
+    <div class="nav-collapse collapse">
+      <ul class="nav">
+      </ul>
+      <form class="navbar-search pull-right" action='/search.html' method='get'>
+        <input type="text" class="search-query" name='query' placeholder="Search">
+      </form>
+    </div>
+  </div>
+</div>
