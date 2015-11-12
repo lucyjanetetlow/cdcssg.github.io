@@ -1,0 +1,13 @@
+<div class="well sidebar-nav">
+  <ul class="nav nav-list">
+    {% for link in site.data.navigation.tree[include.section] %}
+      {% if link[1] %}
+        <li{% if page.url == link[1] %} class="active"{% endif %}>
+          <a href="{{link[1]}}">{{link[0]}}</a>
+        </li>
+      {% else %}
+        <li class='nav-header'>{{link[0]}}</li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
