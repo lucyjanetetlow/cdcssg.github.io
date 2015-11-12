@@ -2,11 +2,13 @@
   <div class="navbar-inner">
     <ul class="nav">
       {% for section in site.data.navigation.tree %}
-        {% assign title = section[0] %}
-        {% assign links = section[1] %}
-        <li{% if page.group == section[0] %} class='active'{% endif %}>
-          <a href="{{ links[title] }}">{{ section[0] }}</a>
-        </li>
+        {% if forloop.index <= site.data.navigation.settings.mobile_nav %}
+          {% assign title = section[0] %}
+          {% assign links = section[1] %}
+          <li{% if page.group == section[0] %} class='active'{% endif %}>
+            <a href="{{ links[title] }}">{{ section[0] }}</a>
+          </li>
+        {% endif %}
       {% endfor %}
     </ul>
     <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
@@ -14,6 +16,15 @@
     </a>
     <div class="nav-collapse collapse">
       <ul class="nav">
+        {% for section in site.data.navigation.tree %}
+          {% if forloop.index > site.data.navigation.settings.mobile_nav %}
+            {% assign title = section[0] %}
+            {% assign links = section[1] %}
+            <li{% if page.group == section[0] %} class='active'{% endif %}>
+              <a href="{{ links[title] }}">{{ section[0] }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
       </ul>
       <form class="navbar-search pull-right" action='/search.html' method='get'>
         <input type="text" class="search-query" name='query' placeholder="Search">
