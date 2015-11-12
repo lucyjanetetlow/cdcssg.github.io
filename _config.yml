@@ -19,50 +19,46 @@ defaults:
       type: "posts"
     values:
       layout: "blog_post"
+      group: "About Us"
   -
     scope:
       path: "events"
       type: "pages"
     values:
-      layout: "events"
-      group: "events"
+      group: "Events"
+      layout: events
   -
     scope:
       path: "about"
     values:
-      layout: "about"
-      group: "about"
+      group: "About Us"
   -
     scope:
       path: "community"
     values:
-      layout: "community"
-      group: "community"
+      group: "Community"
   -
     scope:
       path: "fundraising"
     values:
-      layout: "fundraising"
-      group: "fundraising"
+      group: "Fundraising"
   -
     scope:
       path: "information"
     values:
-      layout: "information"
-      group: "information"
+      group: "Information"
   -
     scope:
       path: "start_here"
     values:
-      layout: "start_here"
-      group: "start_here"
+      group: "New Families"
   -
     scope:
       path: ""
       type: "events"
     values:
       layout: "event"
-      group: "events"
+      group: "Events"
 collections:
   events:
     output: true

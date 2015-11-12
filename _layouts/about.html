@@ -1,31 +1,9 @@
 ---
-layout: default
 ---
 
 <div class="row-fluid">
   <div class="span3">
-    <div class="well sidebar-nav">
-      <ul class="nav nav-list">
-        <li{% if page.url == "/about/index.html" %} class="active"{% endif %}>
-          <a href="/about/index.html">About Us</a>
-        </li>
-        <li{% if page.url == "/about/news.html" %} class="active"{% endif %}>
-          <a href="/about/news.html">News</a>
-        </li>
-        <li{% if page.url == "/about/newsletters.html" %} class="active"{% endif %}>
-          <a href="/about/newsletters.html">Newsletters</a>
-        </li>
-        <li{% if page.url == "/about/committee.html" %} class="active"{% endif %}>
-          <a href="/about/committee.html">Committee</a>
-        </li>
-        <li{% if page.url == "/about/meetings.html" %} class="active"{% endif %}>
-          <a href="/about/meetings.html">Meetings & Minutes</a>
-        </li>
-        <li{% if page.url == "/about/contact.html" %} class="active"{% endif %}>
-          <a href="/about/contact.html">Contact Us</a>
-        </li>
-      </ul>
-    </div><!--/.well -->
+    {% include sidemenu.html section="About Us" %}
   </div><!--/span-->
                 
   <div class='span9'>
