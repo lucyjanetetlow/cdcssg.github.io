@@ -1,0 +1,12 @@
+
+<div class='row-fluid homepage-row'>
+  {% for supporter in site.data.supporters %}
+    <div class='span4 supporter'>
+      <div class='well-content'>
+        <p>
+          <a href="{{supporter.link}}"><img src="{{supporter.image}}" alt="{{supporter.name}}"/></a>
+        </p>
+      </div>
+    </div>
+  {% endfor %}
+</div>
