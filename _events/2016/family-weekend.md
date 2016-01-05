@@ -2,7 +2,7 @@
 title: Family Weekend
 start: 2016-05-06 18:00:00 +01:00
 end: 2016-05-08 12:00:00 +01:00
-facebook: 
+facebook: https://www.facebook.com/events/216482285353769/
 location: Ramada Hotel, The Butts, Coventry
 ---
 
