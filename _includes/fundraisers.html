@@ -20,7 +20,7 @@
         var name = $fundraiser.find('PageOwner').text();
         var title = $fundraiser.find('EventName').text();
         var date = moment($fundraiser.find('EventDate').text());
-        var url = 'https://' + $fundraiser.find('PageUrl').text();
+        var url = $fundraiser.find('PageUrl').text();
         var image = $fundraiser.find('ImageAbsoluteUrl').text() + '&template=size300x300';
         if (date.year() >= 2014) {          
           var html = '<li class="span4">';
