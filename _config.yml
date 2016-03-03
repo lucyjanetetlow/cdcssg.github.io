@@ -69,3 +69,6 @@ justgiving:
 mapbox:
   project_id: floppy.npmjfm2g
   public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
+  
+exclude: 
+  - vendor
