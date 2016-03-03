@@ -1,4 +1,5 @@
 require 'csv'
+require 'html/proofer'
 
 namespace :update do
 
