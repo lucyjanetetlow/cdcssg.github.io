@@ -1,10 +1,11 @@
 source 'https://rubygems.org'
 
-ruby '2.1.4'
-
-gem 'github-pages'
 gem 'rake'
-gem 'nokogiri'
-gem 'curb'
-gem 'dotenv'
-gem 'activesupport'
+gem 'github-pages'
+
+group :test do
+  gem 'html-proofer', github: "Floppy/html-proofer", branch: "jekyll-3-extensionless-links"
+  gem 'rspec'
+  gem 'nokogiri'
+  gem 'rspec-html-matchers'
+end
