@@ -40,7 +40,8 @@ task :htmlproofer => :rebuild do
     typhoeus: {ssl_verifypeer: false, timeout: 30}, 
     url_ignore: ignored, 
     check_html: true, 
-    assume_extension: ".html").run
+    assume_extension: ".html",
+    href_ignore: [/facebook.com/]).run
 end
 
 require 'rspec/core/rake_task'
