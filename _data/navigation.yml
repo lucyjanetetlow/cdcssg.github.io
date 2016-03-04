@@ -2,55 +2,55 @@ settings:
   mobile_nav: 2 # Show 2 items in the top navbar on mobile
 tree:
   New Families:
-    New Families: /start_here/index.html
-    The Future: /start_here/future.html
-    Support Group: /start_here/support.html
+    New Families: /start_here
+    The Future: /start_here/future
+    Support Group: /start_here/support
   Information:
-    Information: /information/index.html
+    Information: /information
     Signposts:
-    Diagnosis: /information/signposts/diagnosis.html
-    Treatment: /information/signposts/treatment.html
-    Development: /information/signposts/development.html
+    Diagnosis: /information/signposts/diagnosis
+    Treatment: /information/signposts/treatment
+    Development: /information/signposts/development
     Common Problems:
-    Reflux: /information/problems/reflux.html
-    Dribbling: /information/problems/dribbling.html
-    Sleeplessness: /information/problems/sleeping.html
-    Behavioural Problems: /information/problems/behavioural.html
-    Toileting: /information/problems/toileting.html
+    Reflux: /information/problems/reflux
+    Dribbling: /information/problems/dribbling
+    Sleeplessness: /information/problems/sleeping
+    Behavioural Problems: /information/problems/behavioural
+    Toileting: /information/problems/toileting
     Therapies:
-    Therapies: /information/therapies/therapies.html
+    Therapies: /information/therapies/therapies
     Social:
-    Education: /information/social/education.html
-    Help for Carers: /information/social/carers.html
-    Transition to Adulthood: /information/social/transition.html
-    Travel: /information/social/travel.html
-    Housing: /information/social/housing.html
-    Wheelchairs: /information/social/wheelchairs.html
+    Education: /information/social/education
+    Help for Carers: /information/social/carers
+    Transition to Adulthood: /information/social/transition
+    Travel: /information/social/travel
+    Housing: /information/social/housing
+    Wheelchairs: /information/social/wheelchairs
     Financial:
-    Insurance: /information/financial/insurance.html
-    Financial Help: /information/financial/financial_help.html
-    Wills &amp; Trusts: /information/financial/wills.html
+    Insurance: /information/financial/insurance
+    Financial Help: /information/financial/financial_help
+    Wills &amp; Trusts: /information/financial/wills
     Advice:
-    Clinical Advisory Group: /information/cag.html
+    Clinical Advisory Group: /information/cag
     Genetics:
-    Genetics: /information/genetics.html
+    Genetics: /information/genetics
   Events:
-    Events: /events/index.html
-    How to run a meetup: /events/meetups.html
+    Events: /events
+    How to run a meetup: /events/meetups
   Fundraising:
-    Fundraising: /fundraising/index.html
-    Support our work: /fundraising/donate.html
-    5p for 5p: /fundraising/5p-for-5p.html
-    Ideas: /fundraising/ideas.html
+    Fundraising: /fundraising
+    Support our work: /fundraising/donate
+    5p for 5p: /fundraising/5p-for-5p
+    Ideas: /fundraising/ideas
   Community:
-    Community: /community/index.html
-    CdC Awareness Day: /community/cri-du-chat-day.html
-    Global: /community/global.html
-    Funding &amp; Grants: /community/grants.html
+    Community: /community
+    CdC Awareness Day: /community/cri-du-chat-day
+    Global: /community/global
+    Funding &amp; Grants: /community/grants
   About Us:
-    About Us: /about/index.html
-    News: /about/news.html
-    Newsletters: /about/newsletters.html
-    Committee: /about/committee.html
-    Meetings &amp; Minutes: /about/meetings.html
-    Contact Us: /about/contact.html
+    About Us: /about
+    News: /about/latest_news
+    Newsletters: /about/newsletters
+    Committee: /about/committee
+    Meetings &amp; Minutes: /about/meetings
+    Contact Us: /about/contact
