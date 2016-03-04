@@ -7,7 +7,7 @@ published: true
 
 ## 5th May 2015
 
-<img src='/img/wristband.jpg' style='float: right; margin: 20px; border-radius: 10px'/>
+<img src='/img/wristband.jpg' style='float: right; margin: 20px; border-radius: 10px' alt='Wristband'/>
 
 Individuals and families affected by Cri du Chat Syndrome will be using Cri du Chat Awareness Week (3-9 May 2015) to send the message that these individuals deserve to be recognized for what they *can* do, not what they can't.
 

@@ -11,7 +11,7 @@
   <script>
     var map = L.map('map').setView([ 55.50366, -4], 5);
     L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com">Mapbox</a>',
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap<\/a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA<\/a>, Imagery © <a href="http://mapbox.com">Mapbox<\/a>',
       maxZoom: 13,
       minZoom: 5,
       id: '{{site.mapbox.project_id}}',
@@ -27,12 +27,10 @@
     {% endfor %}
     map.addLayer(markers);
   </script>
-  <small>
-    <p>
-      Map shows approximate locations of CDC Support Group families and other supporters. Locations are approximate, using only the first half of each postcode for anonymity.
-    </p>
-    <p>
-      If you think you're missing from our map, email <a href='mailto:james@criduchat.org.uk?subject=CDC map'>james@criduchat.org.uk</a> with your postcode and we'll add you on!
-    </p>
-  </small>
+  <p>
+    <small>Map shows approximate locations of CDC Support Group families and other supporters. Locations are approximate, using only the first half of each postcode for anonymity.</small>
+  </p>
+  <p>
+    <small>If you think you're missing from our map, email <a href='mailto:james@criduchat.org.uk?subject=CDC map'>james@criduchat.org.uk</a> with your postcode and we'll add you on!</small>
+  </p>
 </div>

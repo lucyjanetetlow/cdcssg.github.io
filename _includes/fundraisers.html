@@ -26,13 +26,13 @@
           var html = '<li class="span4">';
           html += '     <div class="thumbnail" style="background-image: url('+ image +');">';
           html += '       <div class="caption">';
-          html += '         <h2>'+ name + '</h2>';
-          html += '         <p>'+ title + '</p>';
-          html += '         <p>'+ date.format("MMMM Do, YYYY"); + '</p>';
-          html += '         <p><a href="' + url + '" class="btn btn-primary" role="button">Donate!</a></p>';
-          html += '       </div>';
-          html += '     </div>';
-          html += '   </li>';
+          html += '         <h2>'+ name + '<\/h2>';
+          html += '         <p>'+ title + '<\/p>';
+          html += '         <p>'+ date.format("MMMM Do, YYYY"); + '<\/p>';
+          html += '         <p><a href="' + url + '" class="btn btn-primary" role="button">Donate!<\/a><\/p>';
+          html += '       <\/div>';
+          html += '     <\/div>';
+          html += '   <\/li>';
         }
 
         $('#fundraisers').append($(html));
