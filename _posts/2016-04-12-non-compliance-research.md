@@ -16,4 +16,4 @@ The project is directed by Dr Kate Woodcock (lecturer in atypical development) a
 
 While most children behave like this at times, they are looking to speak to caregivers of children who behave like this across different settings (e.g. school and home) and where such behaviours impact their child and family in terms of friendships, socialising etc.  They would like caregivers to take part in an interview over the phone to talk about the  behaviour.
 
-If you are interested in hearing more about the study and would like more information, please contact [kgrady01@qub.ac.uk](mailto:kgrady01@qub.ac.uk) or [k.woodcock@qub.ac.uk](k.woodcock@qub.ac.uk). You can also call them on 028 9097 4886 (048 9097 4886 from ROI).
+If you are interested in hearing more about the study and would like more information, please contact [kgrady01@qub.ac.uk](mailto:kgrady01@qub.ac.uk) or [k.woodcock@qub.ac.uk](mailto:k.woodcock@qub.ac.uk). You can also call them on 028 9097 4886 (048 9097 4886 from ROI).
