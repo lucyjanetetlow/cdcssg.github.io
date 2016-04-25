@@ -8,7 +8,7 @@ location: Ramada Hotel, The Butts, Coventry
 
 The 2016 Cri du Chat Syndrome Support Group Family Weekend is being held in Coventry, in May! [Register now](http://cdc2016.eventbrite.co.uk) to secure your place!
 
-Registration is a fixed price per room, so if you need two rooms, please make sure you book two tickets, and enter the details of everyone who will be attending. Each room can accomodate up to 2 adults and 2 children under 12; some larger rooms are available which can also fit an extra cot. Some answers to frequently asked questions are below, but please [get in touch](/about/contact.html) if you have any questions before booking.
+Registration is a fixed price per room, so if you need two rooms, please make sure you book two tickets, and enter the details of everyone who will be attending. Each room can accommodate up to 2 adults and 2 children under 12; some larger rooms are available which can also fit an extra cot. Some answers to frequently asked questions are below, but please [get in touch](/about/contact.html) if you have any questions before booking.
 
 If you want to come, we want to enable you to be there. If there is anything getting in the way of you attending, such as travel expenses or other finance issues, or if you have any other questions, please [get in touch](/about/contact.html); we can help and we want to help.
 
