@@ -23,6 +23,8 @@ Visit [our page on EasyFundraising](http://www.easyfundraising.org.uk/causes/cdc
 Once you have registered any purchase you make, via the site, will result in a small donation back to us. This does not cost you anything and is funded by retail companies signing up to the scheme.
 You can check up at any time to see how much you have raised. 
 
+The easiest way to use EasyFundraising is to install their [Reminder Toolbar](https://new.easyfundraising.org.uk/donation-reminder/toolbar-install/), which pops up a message every time you visit a site where you can raise money. It's easy, and you'll never forget again!
+
 ## Cartridge recycling
 
 Cash for Cartridges buy most (but not all) empty ink cartridges used in printers throughout the UK and will pay for your empty ink cartridges to reach their recycling centre.
