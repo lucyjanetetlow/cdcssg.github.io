@@ -21,6 +21,10 @@ There are loads of ways that you can let people know about CdC.
 * Host a [Coffee morning](/downloads/coffee_morning_invitation.doc) at your home. Ask family & friends to bake cakes; invite neighbours and friends or parents from the school gate. Have a donations box by the cakes;
 * Tell us about your families’ journey with CdC. Maybe we could include it in one of our newsletters or website.
 
+## Fundraising
+
+The awareness week is a great opportunity for some fundraising! There are lots of ideas on our [fundraising](/fundraising) page to get you started!
+
 ## Social Media
 
 Change your cover photo or header image on your social media feed to raise awareness! Download our images designed especially for Facebook and Twitter.
