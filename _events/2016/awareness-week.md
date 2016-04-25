@@ -14,12 +14,19 @@ Cri du Chat Syndrome is a deletion on the short (p) arm of the 5th Chromosome; i
 
 There are loads of ways that you can let people know about CdC.
 
-* Add a CdC image to your social media profile;
+* Post a CdC image to your social media profile (see below);
 * Chat to 3 people about CdC and give them an information sheet. Download and edit this [example information sheet](/downloads/cdc_info_sheet.doc) with your own story;
 * Purchase and display a CdC sticker on your car;
 * Ask a local shop, businesses, coffee shop or pub to have a [CdC wine bottle](/fundraising/5p-for-5p.html) to collect 5 pence pieces;
 * Host a [Coffee morning](/downloads/coffee_morning_invitation.doc) at your home. Ask family & friends to bake cakes; invite neighbours and friends or parents from the school gate. Have a donations box by the cakes;
 * Tell us about your families’ journey with CdC. Maybe we could include it in one of our newsletters or website.
+
+## Social Media
+
+Change your cover photo or header image on your social media feed to raise awareness! Download our images designed especially for Facebook and Twitter.
+
+* [Download Facebook cover photo](/downloads/facebook_cover_photo.jpg)
+* [Download Twitter header image](/downloads/twitter_header.jpg)
 
 ## Images
 
