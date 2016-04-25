@@ -21,13 +21,16 @@
         var title = $fundraiser.find('EventName').text();
         var date = moment($fundraiser.find('EventDate').text());
         var url = $fundraiser.find('PageUrl').text();
+        var percent = $fundraiser.find('PercentageTargetAchieved').text();
+        var target = $fundraiser.find('TargetAmount').text();
+        var amount = target * (percent / 100)
         var image = $fundraiser.find('ImageAbsoluteUrl').text() + '&template=size300x300';
-        if (date.year() >= 2014) {          
+        if (date.year() >= 2015) { 
           var html = '<li class="span4">';
           html += '     <div class="thumbnail" style="background-image: url('+ image +');">';
           html += '       <div class="caption">';
           html += '         <h2>'+ name + '<\/h2>';
-          html += '         <p>'+ title + '<\/p>';
+          html += '         <p><strong>£' + amount + '</strong> raised for '+ title + '<\/p>';
           html += '         <p>'+ date.format("MMMM Do, YYYY"); + '<\/p>';
           html += '         <p><a href="' + url + '" class="btn btn-primary" role="button">Donate!<\/a><\/p>';
           html += '       <\/div>';
