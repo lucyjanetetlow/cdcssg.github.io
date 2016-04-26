@@ -37,7 +37,7 @@ task :htmlproofer => :rebuild do
     "http://githubeditor.herokuapp.com"
   ]
   HTML::Proofer.new("./_site", 
-    typhoeus: {ssl_verifypeer: false, timeout: 30}, 
+    typhoeus: {ssl_verifypeer: false, timeout: 30, followlocation: true}, 
     url_ignore: ignored, 
     check_html: true, 
     assume_extension: ".html",
