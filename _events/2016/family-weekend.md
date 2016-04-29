@@ -73,7 +73,7 @@ Lunchboxes will be provided for the children at registration.
 
 *Angie Stokes and Amanda Phelps*
 
-There are lots of ‘babysitting’ services out there for adults wit8h special needs, but as parents we both think that our adults should be spending their time constructively, gaining skills and not just being occupied. 
+There are lots of ‘babysitting’ services out there for adults with special needs, but as parents we both think that our adults should be spending their time constructively, gaining skills and not just being occupied. 
 
 [Forever Savvy](http://www.foreversavvy.co.uk/) allows trainees to learn new skills which are transferable to voluntary or paid employment. They gain the ethics of working and doing what needs to be done not just what they want to do, they learn about timekeeping and doing a job to a required standard. To all intents and purposes they are going to work when they come to Forever Savvy. 
 
