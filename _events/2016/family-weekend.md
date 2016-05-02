@@ -30,12 +30,12 @@ Our family weekend this year is focused on collaborative discussion and workshop
 | 10:20 | Research update - *Caspar Hull & Damian Haywood* |
 | 10.30 | Keynote: Forever Savvy - *Angie Stokes* |
 | 11:15 | Refreshments |
-| 11:30 | Workshops (exact schedule TBC) |
-| 12:15 | Workshops (exact schedule TBC) |
+| 11:30 | Workshops (exact schedule TBC, see below for sessions) |
+| 12:15 | Workshops (exact schedule TBC, see below for sessions) |
 | 13:00 | Buffet lunch |
 | 14:00 | AGM - *James Smith* |
-| 14:15 | Workshops (exact schedule TBC) |
-| 15:00 | Workshops (exact schedule TBC) |
+| 14:15 | Workshops (exact schedule TBC, see below for sessions) |
+| 15:00 | Workshops (exact schedule TBC, see below for sessions) |
 | 15:45 | Refreshments & open discussion forum |
 | 16:30 | Coach returns with children & carers |
 | Evening | No meal provided, but there are plenty of restaurants nearby, or the restaurant in the hotel will be open. Most families tend to meet up in the bar area for the evening. |
