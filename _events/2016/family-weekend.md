@@ -129,7 +129,7 @@ We’re also looking for committee members, so come along if you want to help ou
 
 ## And there’s more!
 
-There are more workshops still being finalised around respite, toilet training, and challenging behaviour, which will be added to this list when final!
+There are more workshops still being finalised around respite, toilet training, and more, which will be added to this list when final!
 
 # Frequently Asked Questions
 
