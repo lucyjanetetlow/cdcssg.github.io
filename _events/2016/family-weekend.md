@@ -140,11 +140,3 @@ Each room can take two adults, and two children under 12 on z-beds. We also have
 ### Are cots provided by the hotel?
 
 The hotel will be able to provide some cots, but supply is always limited, so if you have a travel cot you can bring, please do.
-
-### Is the price per night or for the weekend?
-
-The room price is for two nights, Friday 6th and Saturday 7th, so just book the number of rooms you need, not the number of nights!
-
-### Do I need to book day tickets if I'm booking a room?
-
-No, if you're booking a room then everything's included. Day tickets are just for people who don't want to stay over.
