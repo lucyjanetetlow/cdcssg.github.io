@@ -101,6 +101,12 @@ Discuss your children's sleep issues, and techniques to help them. Facilitated b
 
 Scoliosis (curvature of the spine) is a common problem in children with Cri du Chat. Discuss any concerns, experiences, or questions in this group, facilitated by Caspar Hull, osteopath and CdCSSG committee member.
 
+## Workshop: Challenging Behaviour
+
+*Pippa McIntyre*
+
+Many of our children have some challenging behaviour. This workshop is to share your experiences, explore techniques and tools to manage behaviour, and learn how to create a positive behaviour support plan for your child.
+
 ## Workshop: Puberty
 
 *Caspar Hull*
