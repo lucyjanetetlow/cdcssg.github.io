@@ -3,12 +3,23 @@ title: Meetings
 description: Cri du Chat Syndrome Support group committee meeting details and minutes
 ---
 
-## Next Committee Meeting
+## Upcoming Meetings
+{% assign meetings = site.meetings | sort: "date" %}
+<ul class="thumbnails meetings">
+  {% for meeting in meetings %}
+    {% if meeting.date >= site.time %}
+      {% include meeting_thumbnail.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
 
-The date for the next committee meeting has yet to be decided.
+## Past Meetings
+{% assign meetings = site.meetings | sort: "date" | reverse %}
+<ul class="thumbnails meetings">
+  {% for meeting in meetings %}
+    {% if meeting.date < site.time %}
+      {% include meeting_thumbnail.html %}
+    {% endif %}
+  {% endfor %}
+</ul>
 
-## Previous Meetings
-
-* [13th June 2015: Minutes](/downloads/minutes/2015-06-13.pdf)
-
-More minutes will be made available from older meetings in due course. Bear with us!

@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+{% assign meeting = page %}
+<h3>{{ meeting.date | date: "%a %-d %b %Y, %H:%M" }}</h3>
+
+{% if page.location %}
+  <h3>Venue: {{ page.location }}</h3>
+  <iframe src="https://www.google.com/maps/embed/v1/place?key={{site.maps_api_key}}&q={{ page.location }}" width="100%" height="250" frameborder="0" style="border:0"></iframe>
+{% endif %}
+
+{{ page.content }}
+

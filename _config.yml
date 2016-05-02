@@ -7,6 +7,7 @@ gems:
   - jekyll-feed
 feed:
   path: about/news.atom
+future: true
 defaults:
   -
     scope:
@@ -27,6 +28,13 @@ defaults:
     values:
       group: "Events"
       layout: events
+  -
+    scope:
+      type: "meetings"
+    values:
+      group: "About Us"
+      permalink: "/about/meetings/:year/:month/:day/:title"
+      layout: meeting
   -
     scope:
       path: "about"
@@ -62,6 +70,8 @@ defaults:
 collections:
   events:
     output: true
+  meetings:
+    output: true
 maps_api_key: AIzaSyCtjkfaB7Q7Qf2Fy11YrtNn9gZFKeGtUwM
 justgiving:
   app: d22062fe
@@ -69,6 +79,6 @@ justgiving:
 mapbox:
   project_id: floppy.npmjfm2g
   public_key: pk.eyJ1IjoiZmxvcHB5IiwiYSI6ImNpZzUwdXRuNTBhdzh2bmtoeW91OXRlOWoifQ.DicALr5Qlw80fbd9eK23lQ
-  
+
 exclude: 
   - vendor
