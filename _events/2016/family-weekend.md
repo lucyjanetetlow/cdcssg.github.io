@@ -17,8 +17,8 @@ Our family weekend this year is focused on collaborative discussion and workshop
 {: .table .table-striped }
 | 15:00 | Check-in and Event Registration open. Visit the CDC registration desk in the lobby after you have checked in. Onsite parking is available at £6.50 for 24 hours. |
 | 18:00 | Welcome meetup in the bar. Join us to meet other families and the charity committee. If this is your first family weekend we will make sure you are introduced to everyone! |
-| 18:00 | Buffet dinner - first sitting |
-| 20:00 | Buffet dinner - second sitting |
+| 17:00 | Buffet dinner - first sitting |
+| 19:00 | Buffet dinner - second sitting |
 
 ## Saturday 7th May
 
