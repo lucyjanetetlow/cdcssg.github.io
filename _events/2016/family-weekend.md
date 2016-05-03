@@ -119,6 +119,12 @@ Puberty can be a confusing time for anyone! Discuss how to help your child navig
 
 Direct payments are a way for you to take control of the care your child needs. Find out more about what they are, how they work, and share your experiences of using them best. Facilitated by Angie Stokes and Amanda from [Forever Savvy](http://www.foreversavvy.co.uk/).
 
+## Workshop: Respite
+
+*Damian Haywood*
+
+There are lots of respite options out there, but it varies from area to area, and often you have to know what you're looking for. Join this group to share your knowledge about respite options, and look for new ideas. Facilitated by Damian Haywood.
+
 ## Workshop: Support Group
 
 *James Smith & Lucy Santos*
@@ -129,7 +135,7 @@ We’re also looking for committee members, so come along if you want to help ou
 
 ## And there’s more!
 
-There are more workshops still being finalised around respite, toilet training, and more, which will be added to this list when final!
+There are more workshops still being finalised, which will be added to this list when final!
 
 # Frequently Asked Questions
 
