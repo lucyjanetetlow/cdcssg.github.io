@@ -33,6 +33,7 @@ Our family weekend this year is focused on collaborative discussion and workshop
 | 11:30 | Workshops (exact schedule TBC, see below for sessions) |
 | 12:15 | Workshops (exact schedule TBC, see below for sessions) |
 | 13:00 | Buffet lunch |
+| 13:55 | Raffle Draw - *Jamie Sparkes* |
 | 14:00 | AGM - *James Smith* |
 | 14:15 | Workshops (exact schedule TBC, see below for sessions) |
 | 15:00 | Workshops (exact schedule TBC, see below for sessions) |
