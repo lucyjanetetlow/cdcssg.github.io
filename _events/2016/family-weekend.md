@@ -139,6 +139,12 @@ Direct payments are a way for you to take control of the care your child needs. 
 
 There are lots of respite options out there, but it varies from area to area, and often you have to know what you're looking for. Join this group to share your knowledge about respite options, and look for new ideas. Facilitated by Damian Haywood.
 
+## Workshop: Toilet Training
+
+*Facilitator TBC*
+
+Have you toilet trained your child? Are you thinking about doing so in the future? Not sure how to start? Come and share ideas and experiences with other families in the same situation.
+
 ## Workshop: Support Group
 
 *James Smith & Lucy Santos*
