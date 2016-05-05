@@ -1,10 +1,11 @@
 ---
 title: Family Weekend
-start: 2016-05-06 18:00:00 +01:00
-end: 2016-05-08 12:00:00 +01:00
-facebook: https://www.facebook.com/events/216482285353769/
-location: Ramada Hotel, The Butts, Earlsdon, Coventry, CV1 3GG
+start: 2016-05-06T17:00:00.000Z
+end: 2016-05-08T11:00:00.000Z
+facebook: 'https://www.facebook.com/events/216482285353769/'
+location: 'Ramada Hotel, The Butts, Earlsdon, Coventry, CV1 3GG'
 ---
+
 
 The 2016 Cri du Chat Syndrome Support Group Family Weekend is being held in Coventry, in May! Join us at the Ramada Hotel for a weekend of sharing, learning, meeting up with friends, and laughter!
 
@@ -14,15 +15,14 @@ Our family weekend this year is focused on collaborative discussion and workshop
 
 ## Friday 6th May
 
-{: .table .table-striped }
-| 15:00 | Check-in and Event Registration open. Visit the CDC registration desk in the lobby after you have checked in. Onsite parking is available at £6.50 for 24 hours. |
+| 15:00 | Check-in and Event Registration open. Visit the CDC registration desk in the lobby after you have checked in. Onsite parking is available at &pound;6.50 for 24 hours. |
 | 18:00 | Welcome meetup in the bar. Join us to meet other families and the charity committee. If this is your first family weekend we will make sure you are introduced to everyone! |
 | 17:00 | Buffet dinner - first sitting |
 | 19:00 | Buffet dinner - second sitting |
+{: .table.table-striped}
 
 ## Saturday 7th May
 
-{: .table .table-striped }
 | 09:00 | Children’s day trip registration & carer meetup |
 | 09:30 | Start boarding coach for day trip |
 | 10:00 | Coach departs |
@@ -40,25 +40,26 @@ Our family weekend this year is focused on collaborative discussion and workshop
 | 15:45 | Refreshments & open discussion forum |
 | 16:30 | Coach returns with children & carers |
 | Evening | No meal provided, but there are plenty of restaurants nearby, or the restaurant in the hotel will be open. Most families tend to meet up in the bar area for the evening. |
+{: .table.table-striped}
 
 ## Sunday 8th May
 
-{: .table .table-striped }
 | 11:00 | Check-out. The hotel have provided luggage storage on the first floor if needed. Please ask one of the committee members for more details. |
+{: .table.table-striped}
 
 # Twycross Zoo Day Trip
 
 The children are visiting Twycross Zoo during the day. Most families are sending a family member or known carer with their children, but if you do not have anyone going with your children, then a few carers are being provided. If you need a carer for your children and have not spoken to Lucy about it, [please get in touch](mailto:office@criduchat.org.uk) as soon as possible.
 
-{: .table .table-striped }
 | 09:00 | Children’s day trip registration & carer meetup |
 | 09:30 | Start boarding coach for day trip |
 | 10:00 | Coach leaves hotel |
 | 10:40 | Coach arrives at Twycross Zoo. When you arrive you will be greeted at the coach bays by a member of guest services who will give you your wristbands and maps. |
-|  | Explore the zoo! You may stay with the group or go on your own, the choice is entirely yours! |
+| &nbsp; | Explore the zoo! You may stay with the group or go on your own, the choice is entirely yours! |
 | 15:30 | Return to coach. DO NOT BE LATE! |
 | 15:40 | Coach leaves Twycross Zoo |
 | 16:30 | Coach arrives at hotel |
+{: .table.table-striped}
 
 ## Changing Facilities
 
@@ -74,11 +75,11 @@ Lunchboxes will be provided for the children at registration.
 
 *Angie Stokes and Amanda Phelps*
 
-There are lots of ‘babysitting’ services out there for adults with special needs, but as parents we both think that our adults should be spending their time constructively, gaining skills and not just being occupied. 
+There are lots of ‘babysitting’ services out there for adults with special needs, but as parents we both think that our adults should be spending their time constructively, gaining skills and not just being occupied.
 
-[Forever Savvy](http://www.foreversavvy.co.uk/) allows trainees to learn new skills which are transferable to voluntary or paid employment. They gain the ethics of working and doing what needs to be done not just what they want to do, they learn about timekeeping and doing a job to a required standard. To all intents and purposes they are going to work when they come to Forever Savvy. 
+[Forever Savvy](http://www.foreversavvy.co.uk/) allows trainees to learn new skills which are transferable to voluntary or paid employment. They gain the ethics of working and doing what needs to be done not just what they want to do, they learn about timekeeping and doing a job to a required standard. To all intents and purposes they are going to work when they come to Forever Savvy.
 
-When they are ready (and for some that may be years away), we look for suitable placements for them in the area which they would like, and are capable of working in. Forever Savvy then acts as the agent between the company and the trainee and supports them in their work placement for as long as is needed, ironing out any problems before it becomes too big that the relationship breaks down. 
+When they are ready (and for some that may be years away), we look for suitable placements for them in the area which they would like, and are capable of working in. Forever Savvy then acts as the agent between the company and the trainee and supports them in their work placement for as long as is needed, ironing out any problems before it becomes too big that the relationship breaks down.
 
 Forever Savvy is funded by the trainees personal budget whilst on the farms or in work placement. It is a positive risk environment, meaning that not much is a no-no and supervision is given at all times.
 
@@ -88,13 +89,25 @@ Forever Savvy is funded by the trainees personal budget whilst on the farms or i
 
 What is [Makaton](http://makaton.com)? How and when can you use it? This session will teach about 20 basic signs and symbols to help communication with your children, as well as offer space for general signing questions and discussion. The workshop will run multiple times through the day, so if you cannot make one, there should be another opportunity. Helene will also be available throughout the day to talk with parents and offer ideas and suggestions to help them move forward with their child’s or young person’s speech, language and communication needs.
 
-Helene is a Specialist Speech and Language Therapist (SLT) currently working for Birmingham Community Healthcare NHS Foundation Trust.  She works with children from birth until they leave full-time education and specialise with children who are deaf or have hearing impairments.  She also works in community clinics as well as with preschool children with special needs.  She is a licensed Makaton Regional Tutor and has been teaching and using Makaton in her work since 1989. She used to work with adults with a range of learning disabilities and adult neurological difficulties and stammerers.  She teaches Makaton and communication strategies to professionals and to parents and carers of children and adults who need to develop their communication, speech and language skills.  
+Helene is a Specialist Speech and Language Therapist (SLT) currently working for Birmingham Community Healthcare NHS Foundation Trust. She works with children from birth until they leave full-time education and specialise with children who are deaf or have hearing impairments. She also works in community clinics as well as with preschool children with special needs. She is a licensed Makaton Regional Tutor and has been teaching and using Makaton in her work since 1989. She used to work with adults with a range of learning disabilities and adult neurological difficulties and stammerers. She teaches Makaton and communication strategies to professionals and to parents and carers of children and adults who need to develop their communication, speech and language skills.
+
+## Workshop: New Families
+
+*Jamie Sparkes*
+
+Are you new to Cri du Chat and full of questions? Not sure where to start, or how to navigate all the things you need to deal with? Come to this workshop if that sounds like you, or if you want to help our new families find their way.
 
 ## Workshop: Sleep
 
-*Helen Rutherford* 
+*Helen Rutherford*
 
 Discuss your children's sleep issues, and techniques to help them. Facilitated by Helen Rutherford from the [Children’s Sleep Charity](http://www.thechildrenssleepcharity.org.uk/).
+
+## Workshop: Speech & Language
+
+*Helene Elia*
+
+Come and discuss speech and language development, led by our visiting expert Helene, a speech and language therapist. Share experiences and tips with other parents.
 
 ## Workshop: Scoliosis
 
@@ -130,13 +143,9 @@ There are lots of respite options out there, but it varies from area to area, an
 
 *James Smith & Lucy Santos*
 
-A discussion session for those who wish to know more about the support group – whether it be how you can get involved with fundraising, or how you can access grants to arrange regional family meetings. We are also interested in hearing how we can help you more. All ideas and comments are welcome! 
+A discussion session for those who wish to know more about the support group – whether it be how you can get involved with fundraising, or how you can access grants to arrange regional family meetings. We are also interested in hearing how we can help you more. All ideas and comments are welcome!
 
 We’re also looking for committee members, so come along if you want to help out on that front.
-
-## And there’s more!
-
-There are more workshops still being finalised, which will be added to this list when final!
 
 # Frequently Asked Questions
 
