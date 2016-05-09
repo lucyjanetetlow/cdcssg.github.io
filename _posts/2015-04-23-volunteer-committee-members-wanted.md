@@ -1,6 +1,6 @@
 ---
 published: true
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 The Cri du Chat Syndrome Support Group is managed by a [committee](/about/committee.html) and we are currently looking for new members to join us. We are urgently looking for replacements to step into both the Chair and Treasurer roles at the end of the current term and in addition require more ordinary committee members to ensure that YOUR Support Group can continue to evolve.

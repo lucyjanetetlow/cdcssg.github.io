@@ -1,6 +1,6 @@
 ---
 title: CdC Awareness Week Badge
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 ![CdC Awareness Week](/img/cdc_awareness_week_2013.png)

@@ -1,6 +1,6 @@
 ---
 title: CdC Day 2013 - The Pledge
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 In the run up to Cri du Chat Awareness Week, to be held in May 2013, our families, friends and supporters are invited to become Ambassadors and to take a pledge. The CdC Awareness Week 2013 Pledge is a commitment to undertake as many of our simple ideas as possible to spread the word about CdC. We hope you will join us!

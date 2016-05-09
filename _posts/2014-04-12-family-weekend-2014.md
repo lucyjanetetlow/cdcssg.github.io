@@ -1,6 +1,6 @@
 ---
 title: Family Weekend 2014
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 We're excited to announce that this years' family weekend will be held at Chessington World of Adventures, just south of London, on 27-29 June.

@@ -1,6 +1,6 @@
 ---
 title: "Survey - The Way Forward"
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 The Cri du Chat Syndrome Support Group is guided by the requirements of our members and the wider medical and social community.

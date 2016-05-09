@@ -1,7 +1,7 @@
 ---
 published: true
 title: "Lankykats supporting families affected by Cri du Chat Syndrome"
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 ![Lankykats](/img/posts/2015-01-19/lankykats.jpg)
 

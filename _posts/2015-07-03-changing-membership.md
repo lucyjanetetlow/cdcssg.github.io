@@ -1,6 +1,6 @@
 ---
 published: true
-author: Lucy Tetlow
+author: Lucy Santos
 ---
 
 You may remember that a while ago, we asked for your thoughts on how the CdC Syndrome Support Group operates. We wanted to understand how we could best secure our future, help as many families as possible, and provide a welcoming community for parents, carers, friends and family of people who have Cri du Chat Syndrome.
