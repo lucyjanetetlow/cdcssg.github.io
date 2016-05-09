@@ -1,5 +1,7 @@
 ---
 title: flub
-date: 2015-06-13T14:00:00.000Z
-location: 'Holiday Inn Milton Keynes, 500 Saxon Gate West, Milton Keynes, MK9 2HQ'
+date: 2016-06-18T11:00:00.000Z
+location: 'Open Data Institute, 65 Cilfton St, London, EC21 4JE'
 ---
+
+
