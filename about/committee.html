@@ -19,9 +19,6 @@ description: Cri du Chat Syndrome Support group committee
     <div>
       <img src="/img/committee/{{person.image}}" alt="{{person.name}}">
       <h2>
-        {% if person.role %}
-          {{person.role}}:
-        {% endif %}
         {{person.name}}
         {% if person.facebook %}
           <a href='https://www.facebook.com/{{person.facebook}}'><i class='fa fa-facebook-square'></i></a>
@@ -29,7 +26,15 @@ description: Cri du Chat Syndrome Support group committee
         {% if person.twitter %}
           <a href='https://twitter.com/{{person.twitter}}'><i class='fa   fa-twitter-square'></i></a>
         {% endif %}
-      </h2>
+        {% if person.email %}
+          <a href='mailto:{{person.email}}'><i class='fa fa-envelope-square'></i></a>
+        {% endif %}
+      </h2>      
+      {% if person.role %}
+        <h3>{{person.role}}</h3>
+      {% endif %}
+      <p>
+      </p>
       <p>
         "{{person.bio}}"
       </p>
