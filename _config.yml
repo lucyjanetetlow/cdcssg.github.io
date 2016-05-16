@@ -1,3 +1,4 @@
+version: 3.0.3
 permalink: /about/news/:year/:month/:day/:title.html
 markdown: kramdown
 gems: 
