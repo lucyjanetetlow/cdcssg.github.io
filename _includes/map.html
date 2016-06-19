@@ -8,6 +8,15 @@
 <link rel="stylesheet" href="/bower_components/leaflet.awesome-markers/dist/leaflet.awesome-markers.css" />
 <script src="/bower_components/leaflet.awesome-markers/dist/leaflet.awesome-markers.js"></script>
 
+<style>
+  .leaflet-control-layers-list {
+    margin-bottom: 0px;
+  }
+  .leaflet-control-layers-overlays input {
+    margin-top: 0px;
+    margin-bottom: 2px;
+  }
+</style>
 
 <div class='well'>
   <h2>Families &amp; Supporters</h2>
@@ -51,14 +60,14 @@
     {% endfor %}
     
     var markerGroup = new L.MarkerClusterGroup({ showCoverageOnHover: false, zoomToBoundsOnClick: true });
-    var supporterGroup = L.featureGroup.subGroup(markerGroup, supporterMarkers);
     var familyGroup = L.featureGroup.subGroup(markerGroup, familyMarkers);    
+    var supporterGroup = L.featureGroup.subGroup(markerGroup, supporterMarkers);
     control.addOverlay(familyGroup, 'Families');
     control.addOverlay(supporterGroup, 'Supporters');
     control.addTo(map);
     markerGroup.addTo(map);
-    supporterGroup.addTo(map);
     familyGroup.addTo(map);
+    supporterGroup.addTo(map);
     
   </script>
   <p>
