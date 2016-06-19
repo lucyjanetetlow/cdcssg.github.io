@@ -4,7 +4,7 @@
 <link rel="stylesheet" href="/bower_components/leaflet.markercluster/dist/MarkerCluster.css" />
 <link rel="stylesheet" href="/bower_components/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 <script src="/bower_components/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-
+<script src="/bower_components/leaflet.featuregroup.subgroup/leaflet.featuregroup.subgroup.js"></script>
 <link rel="stylesheet" href="/bower_components/leaflet.awesome-markers/dist/leaflet.awesome-markers.css" />
 <script src="/bower_components/leaflet.awesome-markers/dist/leaflet.awesome-markers.js"></script>
 
@@ -22,33 +22,44 @@
       accessToken: '{{site.mapbox.public_key}}'
     }).addTo(map);
     
+    var control = L.control.layers(null, null, { collapsed: false });
     
-    var familyMarker = L.AwesomeMarkers.icon({
+    var familyIcon = L.AwesomeMarkers.icon({
       prefix: "fa",
       icon: 'users',
       markerColor: 'red'
     });
     
-    var supporterMarker = L.AwesomeMarkers.icon({
+    var supporterIcon = L.AwesomeMarkers.icon({
       prefix: "fa",
       icon: 'user',
       markerColor: 'blue'
     });
 
-  	var markers = new L.MarkerClusterGroup({ showCoverageOnHover: false, zoomToBoundsOnClick: true });
-  	var markersList = [];
+    var supporterMarkers = [];
+    var familyMarkers = [];
     {% for location in site.data.locations %}
       {% if location.cdc == "true" %}
-        var m = L.marker([{{location.latitude}}, {{location.longitude}}], {icon: familyMarker});
+        var m = L.marker([{{location.latitude}}, {{location.longitude}}], {icon: familyIcon});
         m.bindPopup("Family: {{location.postcode}}")
+        familyMarkers.push(m);
       {% else %}
-        var m = L.marker([{{location.latitude}}, {{location.longitude}}], {icon: supporterMarker});
+        var m = L.marker([{{location.latitude}}, {{location.longitude}}], {icon: supporterIcon});
         m.bindPopup("Supporter: {{location.postcode}}")
+        supporterMarkers.push(m);
       {% endif %}
-      markersList.push(m);
-  		markers.addLayer(m);
     {% endfor %}
-    map.addLayer(markers);
+    
+    var markerGroup = new L.MarkerClusterGroup({ showCoverageOnHover: false, zoomToBoundsOnClick: true });
+    var supporterGroup = L.featureGroup.subGroup(markerGroup, supporterMarkers);
+    var familyGroup = L.featureGroup.subGroup(markerGroup, familyMarkers);    
+    control.addOverlay(familyGroup, 'Families');
+    control.addOverlay(supporterGroup, 'Supporters');
+    control.addTo(map);
+    markerGroup.addTo(map);
+    supporterGroup.addTo(map);
+    familyGroup.addTo(map);
+    
   </script>
   <p>
     <small>Map shows approximate locations of CDC Support Group families and other supporters. Locations are approximate, using only the first half of each postcode for anonymity.</small>

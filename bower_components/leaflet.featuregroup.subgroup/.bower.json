@@ -1,0 +1,14 @@
+{
+  "name": "leaflet.featuregroup.subgroup",
+  "homepage": "https://github.com/ghybs/Leaflet.FeatureGroup.SubGroup",
+  "version": "0.1.1",
+  "_release": "0.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.1.1",
+    "commit": "fbfe83a2494dca9a13f00d1fcaefe7583ab36786"
+  },
+  "_source": "git@github.com:ghybs/Leaflet.FeatureGroup.SubGroup.git",
+  "_target": "v0.1.1",
+  "_originalSource": "git@github.com:ghybs/Leaflet.FeatureGroup.SubGroup"
+}
