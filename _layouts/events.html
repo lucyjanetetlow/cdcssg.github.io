@@ -6,10 +6,10 @@ layout: main
   <div class="span3">
     <div class="well sidebar-nav">
       <ul class="nav nav-list">
-        <li{% if page.url == "/events/index.html" %} class="active"{% endif %}>
+        {% if page.url == "/events/index.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="/events/index.html">Events</a>
         </li>
-        <li{% if page.url == "/events/meetups.html" %} class="active"{% endif %}>
+        {% if page.url == "/events/meetups.html" %}<li class="active">{% else %}<li>{% endif %}
           <a href="/events/meetups.html">How to run a meetup</a>
         </li>
         {% assign events = site.events | sort: "end" | reverse %}
@@ -20,7 +20,7 @@ layout: main
             {% assign year = thisyear %}
             <li class='nav-header'>{{year}}</li>          
           {% endif %}
-          <li{% if page.url == event.url %} class="active"{% endif %}>
+          {% if page.url == event.url %}<li class="active">{% else %}<li>{% endif %}
             <a href="{{event.url}}">{{event.title}}</a>
           </li>
         {% endfor %}
