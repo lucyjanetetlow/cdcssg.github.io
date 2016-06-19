@@ -1,6 +1,7 @@
 {
   "name": "cdcssg.github.io",
   "dependencies": {
-    "leaflet.markercluster": "~0.4.0"
+    "leaflet.markercluster": "~0.4.0",
+    "leaflet.awesome-markers": "~2.0.2"
   }
 }
