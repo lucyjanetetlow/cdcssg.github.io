@@ -9,9 +9,9 @@ To get in touch with us, you can write to:
 <address>
 Cri du Chat Syndrome Support Group<br/>
 Administration Office<br/>
-PO Box 3408<br/>
-Norwich<br/>
-NR3 3WE
+PO Box 73631<br/>
+London<br/>
+SW14 9BS
 </address>
 
 Alternatively, you can get in touch by:
